@@ -1,0 +1,1379 @@
+[2014-04-27 20:08:41,136] DEBUG ----- AdminService.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-27 20:08:41,143] INFO  Property File courierportal.properties Loaded Successfully....
+[2014-04-27 20:08:41,143] DEBUG ----- AdminRequestValidation.validateHistoryRequest() method begins -----
+[2014-04-27 20:08:41,146] DEBUG Invalid request parameters
+[2014-04-27 20:08:41,146] DEBUG ----- AdminRequestValidation.validateHistoryRequest() method ends -----
+[2014-04-27 20:08:41,148] DEBUG ----- AdminService.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-27 20:08:57,004] DEBUG ----- AdminService.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-27 20:08:57,005] DEBUG ----- AdminRequestValidation.validateHistoryRequest() method begins -----
+[2014-04-27 20:08:57,005] DEBUG Invalid request parameters
+[2014-04-27 20:08:57,005] DEBUG ----- AdminRequestValidation.validateHistoryRequest() method ends -----
+[2014-04-27 20:08:57,005] DEBUG ----- AdminService.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-27 20:09:03,843] DEBUG ----- AdminService.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-27 20:09:03,844] DEBUG ----- AdminRequestValidation.validateHistoryRequest() method begins -----
+[2014-04-27 20:09:03,844] DEBUG Invalid request parameters
+[2014-04-27 20:09:03,844] DEBUG ----- AdminRequestValidation.validateHistoryRequest() method ends -----
+[2014-04-27 20:09:03,844] DEBUG ----- AdminService.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-27 20:09:22,465] DEBUG ----- AdminService.getDeliveryListByStatus() method begins -----
+[2014-04-27 20:09:22,465] DEBUG ----- AdminRequestValidation.validateHistoryByStatusRequest() method begins -----
+[2014-04-27 20:09:22,465] DEBUG Invalid request parameters
+[2014-04-27 20:09:22,465] DEBUG ----- AdminRequestValidation.validateHistoryByStatusRequest() method ends -----
+[2014-04-27 20:09:22,465] DEBUG ----- AdminService.getDeliveryListByStatus() method ends -----
+[2014-04-27 20:10:11,185] DEBUG ----- DeliveryService.getDeliveryList() method begins -----
+[2014-04-27 20:10:11,187] DEBUG ----- DeliveryRequestValidation.validateDeliveryHistoryRequest() method begins -----
+[2014-04-27 20:10:11,187] DEBUG Invalid request parameters
+[2014-04-27 20:10:11,187] DEBUG ----- DeliveryRequestValidation.validateDeliveryHistoryRequest() method ends -----
+[2014-04-27 20:10:11,187] DEBUG ----- DeliveryService.getDeliveryList() method ends -----
+[2014-04-27 20:10:20,338] DEBUG ----- DeliveryService.getDeliveryList() method begins -----
+[2014-04-27 20:10:20,339] DEBUG ----- DeliveryRequestValidation.validateDeliveryHistoryRequest() method begins -----
+[2014-04-27 20:10:20,339] DEBUG Invalid request parameters
+[2014-04-27 20:10:20,339] DEBUG ----- DeliveryRequestValidation.validateDeliveryHistoryRequest() method ends -----
+[2014-04-27 20:10:20,339] DEBUG ----- DeliveryService.getDeliveryList() method ends -----
+[2014-04-27 20:12:32,744] DEBUG ----- DeliveryService.getDeliveryList() method begins -----
+[2014-04-27 20:12:32,745] DEBUG ----- DeliveryRequestValidation.validateDeliveryHistoryRequest() method begins -----
+[2014-04-27 20:12:32,745] DEBUG Invalid request parameters
+[2014-04-27 20:12:32,745] DEBUG ----- DeliveryRequestValidation.validateDeliveryHistoryRequest() method ends -----
+[2014-04-27 20:12:32,745] DEBUG ----- DeliveryService.getDeliveryList() method ends -----
+[2014-04-27 20:12:43,220] DEBUG ----- DeliveryService.getDeliveryList() method begins -----
+[2014-04-27 20:12:43,220] DEBUG ----- DeliveryRequestValidation.validateDeliveryHistoryRequest() method begins -----
+[2014-04-27 20:12:43,220] DEBUG Invalid request parameters
+[2014-04-27 20:12:43,220] DEBUG ----- DeliveryRequestValidation.validateDeliveryHistoryRequest() method ends -----
+[2014-04-27 20:12:43,220] DEBUG ----- DeliveryService.getDeliveryList() method ends -----
+[2014-04-27 20:18:31,547] DEBUG ----- DeliveryService.getDeliveryList() method begins -----
+[2014-04-27 20:18:31,547] DEBUG ----- DeliveryRequestValidation.validateDeliveryHistoryRequest() method begins -----
+[2014-04-27 20:18:31,547] DEBUG Invalid request parameters
+[2014-04-27 20:18:31,547] DEBUG ----- DeliveryRequestValidation.validateDeliveryHistoryRequest() method ends -----
+[2014-04-27 20:18:31,547] DEBUG ----- DeliveryService.getDeliveryList() method ends -----
+[2014-04-27 20:20:23,211] DEBUG ----- DeliveryService.getDeliveryList() method begins -----
+[2014-04-27 20:20:23,211] DEBUG ----- DeliveryRequestValidation.validateDeliveryHistoryRequest() method begins -----
+[2014-04-27 20:20:23,211] DEBUG Invalid request parameters
+[2014-04-27 20:20:23,211] DEBUG ----- DeliveryRequestValidation.validateDeliveryHistoryRequest() method ends -----
+[2014-04-27 20:20:23,211] DEBUG ----- DeliveryService.getDeliveryList() method ends -----
+[2014-04-27 20:25:28,222] DEBUG ----- DeliveryService.getDeliveryList() method begins -----
+[2014-04-27 20:25:28,224] INFO  Property File courierportal.properties Loaded Successfully....
+[2014-04-27 20:25:28,224] DEBUG ----- DeliveryRequestValidation.validateDeliveryHistoryRequest() method begins -----
+[2014-04-27 20:25:28,225] DEBUG Invalid request parameters
+[2014-04-27 20:25:28,225] DEBUG ----- DeliveryRequestValidation.validateDeliveryHistoryRequest() method ends -----
+[2014-04-27 20:25:28,226] DEBUG ----- DeliveryService.getDeliveryList() method ends -----
+[2014-04-27 20:25:52,718] DEBUG ----- AdminService.getDeliveryListByStatus() method begins -----
+[2014-04-27 20:25:52,719] DEBUG ----- AdminRequestValidation.validateHistoryByStatusRequest() method begins -----
+[2014-04-27 20:25:52,719] DEBUG Invalid request parameters
+[2014-04-27 20:25:52,719] DEBUG ----- AdminRequestValidation.validateHistoryByStatusRequest() method ends -----
+[2014-04-27 20:25:52,719] DEBUG ----- AdminService.getDeliveryListByStatus() method ends -----
+[2014-04-27 20:26:23,234] DEBUG ----- UserService.userRegister() method begins -----
+[2014-04-27 20:26:23,236] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method begins -----
+[2014-04-27 20:26:23,236] DEBUG Invalid request parameters
+[2014-04-27 20:26:23,236] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method ends -----
+[2014-04-27 20:26:23,236] DEBUG ----- UserService.userRegister() method ends -----
+[2014-04-27 20:27:03,800] INFO  Start callExternalRESTAPI
+[2014-04-27 20:27:03,800] DEBUG select * from users
+[2014-04-27 20:27:11,055] DEBUG ----- AdminService.getDeliveryListByStatus() method begins -----
+[2014-04-27 20:27:11,055] DEBUG ----- AdminRequestValidation.validateHistoryByStatusRequest() method begins -----
+[2014-04-27 20:27:11,055] DEBUG Invalid request parameters
+[2014-04-27 20:27:11,055] DEBUG ----- AdminRequestValidation.validateHistoryByStatusRequest() method ends -----
+[2014-04-27 20:27:11,055] DEBUG ----- AdminService.getDeliveryListByStatus() method ends -----
+[2014-04-27 20:29:06,036] DEBUG ----- AdminService.getDeliveryListByStatus() method begins -----
+[2014-04-27 20:29:06,036] DEBUG ----- AdminRequestValidation.validateHistoryByStatusRequest() method begins -----
+[2014-04-27 20:29:06,036] DEBUG Invalid request parameters
+[2014-04-27 20:29:06,036] DEBUG ----- AdminRequestValidation.validateHistoryByStatusRequest() method ends -----
+[2014-04-27 20:29:06,036] DEBUG ----- AdminService.getDeliveryListByStatus() method ends -----
+[2014-04-27 20:29:21,817] DEBUG ----- AdminService.getDeliveryListByStatus() method begins -----
+[2014-04-27 20:29:21,817] DEBUG ----- AdminRequestValidation.validateHistoryByStatusRequest() method begins -----
+[2014-04-27 20:29:21,817] DEBUG Invalid request parameters
+[2014-04-27 20:29:21,817] DEBUG ----- AdminRequestValidation.validateHistoryByStatusRequest() method ends -----
+[2014-04-27 20:29:21,817] DEBUG ----- AdminService.getDeliveryListByStatus() method ends -----
+[2014-04-27 20:29:28,250] DEBUG ----- UserService.userRegister() method begins -----
+[2014-04-27 20:29:28,251] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method begins -----
+[2014-04-27 20:29:28,251] DEBUG Invalid request parameters
+[2014-04-27 20:29:28,251] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method ends -----
+[2014-04-27 20:29:28,251] DEBUG ----- UserService.userRegister() method ends -----
+[2014-04-27 20:30:44,718] DEBUG ----- AdminService.getDeliveryListByStatus() method begins -----
+[2014-04-27 20:30:44,720] INFO  Property File courierportal.properties Loaded Successfully....
+[2014-04-27 20:30:44,720] DEBUG ----- AdminRequestValidation.validateHistoryByStatusRequest() method begins -----
+[2014-04-27 20:30:44,721] DEBUG Invalid request parameters
+[2014-04-27 20:30:44,721] DEBUG ----- AdminRequestValidation.validateHistoryByStatusRequest() method ends -----
+[2014-04-27 20:30:44,723] DEBUG ----- AdminService.getDeliveryListByStatus() method ends -----
+[2014-04-27 20:30:56,933] DEBUG ----- UserService.userRegister() method begins -----
+[2014-04-27 20:30:56,936] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method begins -----
+[2014-04-27 20:30:56,936] DEBUG Invalid request parameters
+[2014-04-27 20:30:56,936] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method ends -----
+[2014-04-27 20:30:56,936] DEBUG ----- UserService.userRegister() method ends -----
+[2014-04-27 20:31:53,894] DEBUG ----- UserService.userRegister() method begins -----
+[2014-04-27 20:32:02,832] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method begins -----
+[2014-04-27 20:36:28,172] DEBUG Invalid request parameters
+[2014-04-27 20:36:28,172] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method ends -----
+[2014-04-27 20:36:28,180] DEBUG ----- UserService.userRegister() method ends -----
+[2014-04-27 20:38:30,336] DEBUG ----- UserService.userRegister() method begins -----
+[2014-04-27 20:38:36,231] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method begins -----
+[2014-04-27 20:38:44,637] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method ends -----
+[2014-04-27 20:38:44,638] DEBUG ----- UserDAOImpl.validateUsername() method ends -----
+[2014-04-27 20:38:44,638] INFO  BaseDAO.getConnection method ends
+[2014-04-27 20:38:44,648] INFO  Property File courierportal.properties Loaded Successfully....
+[2014-04-27 20:38:44,886] INFO  Database Connection is Obtained
+[2014-04-27 20:38:44,886] INFO  BaseDAO.getConnection method begins
+[2014-04-27 20:38:44,906] ERROR Error Occurred in UserDAOImpl.validateUsername() : Table 'courier_portal.USERS' doesn't exist
+[2014-04-27 20:38:44,906] DEBUG ----- UserDAOImpl.validateUsername() method ends -----
+[2014-04-27 20:38:44,907] INFO  Database Connection is Closed...
+[2014-04-27 20:38:44,907] DEBUG ----- UserService.userRegister() method ends -----
+[2014-04-27 20:39:16,932] DEBUG ----- UserService.userRegister() method begins -----
+[2014-04-27 20:39:16,933] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method begins -----
+[2014-04-27 20:39:16,933] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method ends -----
+[2014-04-27 20:39:16,933] DEBUG ----- UserDAOImpl.validateUsername() method ends -----
+[2014-04-27 20:39:16,933] INFO  BaseDAO.getConnection method ends
+[2014-04-27 20:39:16,954] INFO  Database Connection is Obtained
+[2014-04-27 20:39:16,954] INFO  BaseDAO.getConnection method begins
+[2014-04-27 20:39:16,955] ERROR Error Occurred in UserDAOImpl.validateUsername() : Table 'courier_portal.USERS' doesn't exist
+[2014-04-27 20:39:16,955] DEBUG ----- UserDAOImpl.validateUsername() method ends -----
+[2014-04-27 20:39:16,955] INFO  Database Connection is Closed...
+[2014-04-27 20:39:16,955] DEBUG ----- UserService.userRegister() method ends -----
+[2014-04-27 20:39:35,800] DEBUG ----- UserService.userRegister() method begins -----
+[2014-04-27 20:39:40,374] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method begins -----
+[2014-04-27 20:39:40,375] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method ends -----
+[2014-04-27 20:39:47,964] DEBUG ----- UserDAOImpl.validateUsername() method ends -----
+[2014-04-27 20:39:50,738] INFO  BaseDAO.getConnection method ends
+[2014-04-27 20:39:50,792] INFO  Database Connection is Obtained
+[2014-04-27 20:39:50,792] INFO  BaseDAO.getConnection method begins
+[2014-04-27 20:40:49,587] ERROR Error Occurred in UserDAOImpl.validateUsername() : Table 'courier_portal.USERS' doesn't exist
+[2014-04-27 20:40:49,587] DEBUG ----- UserDAOImpl.validateUsername() method ends -----
+[2014-04-27 20:40:49,588] INFO  Database Connection is Closed...
+[2014-04-27 20:40:49,588] DEBUG ----- UserService.userRegister() method ends -----
+[2014-04-27 20:41:00,737] DEBUG ----- UserService.userRegister() method begins -----
+[2014-04-27 20:41:00,737] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method begins -----
+[2014-04-27 20:41:00,737] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method ends -----
+[2014-04-27 20:41:00,737] DEBUG ----- UserDAOImpl.validateUsername() method ends -----
+[2014-04-27 20:41:00,737] INFO  BaseDAO.getConnection method ends
+[2014-04-27 20:41:00,770] INFO  Database Connection is Obtained
+[2014-04-27 20:41:00,770] INFO  BaseDAO.getConnection method begins
+[2014-04-27 20:41:00,771] ERROR Error Occurred in UserDAOImpl.validateUsername() : Table 'courier_portal.USERS' doesn't exist
+[2014-04-27 20:41:00,771] DEBUG ----- UserDAOImpl.validateUsername() method ends -----
+[2014-04-27 20:41:00,771] INFO  Database Connection is Closed...
+[2014-04-27 20:41:00,771] DEBUG ----- UserService.userRegister() method ends -----
+[2014-04-27 20:47:49,517] DEBUG ----- UserService.userRegister() method begins -----
+[2014-04-27 20:47:54,666] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method begins -----
+[2014-04-27 20:47:54,676] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method ends -----
+[2014-04-27 20:47:59,519] DEBUG ----- UserDAOImpl.validateUsername() method ends -----
+[2014-04-27 20:48:02,150] INFO  BaseDAO.getConnection method ends
+[2014-04-27 20:48:02,164] INFO  Property File courierportal.properties Loaded Successfully....
+[2014-04-27 20:48:02,667] INFO  Database Connection is Obtained
+[2014-04-27 20:48:02,667] INFO  BaseDAO.getConnection method begins
+[2014-04-27 20:49:54,872] ERROR Error Occurred in UserDAOImpl.validateUsername() : Table 'courier_portal.USERS' doesn't exist
+[2014-04-27 20:49:54,872] DEBUG ----- UserDAOImpl.validateUsername() method ends -----
+[2014-04-27 20:49:54,874] INFO  Database Connection is Closed...
+[2014-04-27 20:49:54,874] DEBUG ----- UserService.userRegister() method ends -----
+[2014-04-27 20:55:01,081] DEBUG ----- UserService.userRegister() method begins -----
+[2014-04-27 20:55:01,091] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method begins -----
+[2014-04-27 20:55:01,092] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method ends -----
+[2014-04-27 20:55:01,092] DEBUG ----- UserDAOImpl.validateUsername() method ends -----
+[2014-04-27 20:55:01,092] INFO  BaseDAO.getConnection method ends
+[2014-04-27 20:55:01,094] INFO  Property File courierportal.properties Loaded Successfully....
+[2014-04-27 20:55:01,282] INFO  Database Connection is Obtained
+[2014-04-27 20:55:01,282] INFO  BaseDAO.getConnection method begins
+[2014-04-27 20:55:01,293] DEBUG ----- UserDAOImpl.validateUsername() method ends -----
+[2014-04-27 20:55:01,294] INFO  Database Connection is Closed...
+[2014-04-27 20:55:01,294] DEBUG ----- UserService.userRegister() method ends -----
+[2014-04-27 20:55:13,886] DEBUG ----- UserService.userRegister() method begins -----
+[2014-04-27 20:55:15,569] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method begins -----
+[2014-04-27 20:55:15,570] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method ends -----
+[2014-04-27 20:55:20,503] DEBUG ----- UserDAOImpl.validateUsername() method ends -----
+[2014-04-27 20:55:21,746] INFO  BaseDAO.getConnection method ends
+[2014-04-27 20:55:21,796] INFO  Database Connection is Obtained
+[2014-04-27 20:55:21,796] INFO  BaseDAO.getConnection method begins
+[2014-04-27 20:56:04,436] DEBUG ----- UserDAOImpl.validateUsername() method ends -----
+[2014-04-27 20:56:04,437] INFO  Database Connection is Closed...
+[2014-04-27 20:56:04,437] DEBUG ----- UserService.userRegister() method ends -----
+[2014-04-27 20:56:26,047] DEBUG ----- UserService.userRegister() method begins -----
+[2014-04-27 20:56:27,703] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method begins -----
+[2014-04-27 20:56:27,704] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method ends -----
+[2014-04-27 20:56:29,264] DEBUG ----- UserDAOImpl.validateUsername() method ends -----
+[2014-04-27 20:56:29,264] INFO  BaseDAO.getConnection method ends
+[2014-04-27 20:56:29,306] INFO  Database Connection is Obtained
+[2014-04-27 20:56:29,306] INFO  BaseDAO.getConnection method begins
+[2014-04-27 20:56:29,307] DEBUG ----- UserDAOImpl.validateUsername() method ends -----
+[2014-04-27 20:56:29,307] INFO  Database Connection is Closed...
+[2014-04-27 20:56:30,862] DEBUG ----- UserService.userRegister() method ends -----
+[2014-04-27 20:56:36,059] DEBUG ----- UserService.userRegister() method begins -----
+[2014-04-27 20:56:38,855] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method begins -----
+[2014-04-27 20:56:38,856] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method ends -----
+[2014-04-27 20:56:42,813] DEBUG ----- UserDAOImpl.validateUsername() method ends -----
+[2014-04-27 20:56:43,920] INFO  BaseDAO.getConnection method ends
+[2014-04-27 20:56:43,964] INFO  Database Connection is Obtained
+[2014-04-27 20:56:43,964] INFO  BaseDAO.getConnection method begins
+[2014-04-27 20:57:16,091] DEBUG ----- UserDAOImpl.validateUsername() method ends -----
+[2014-04-27 20:57:16,092] INFO  Database Connection is Closed...
+[2014-04-27 20:57:16,092] DEBUG ----- UserService.userRegister() method ends -----
+[2014-04-27 20:59:40,406] DEBUG ----- UserService.userRegister() method begins -----
+[2014-04-27 20:59:40,416] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method begins -----
+[2014-04-27 20:59:40,417] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method ends -----
+[2014-04-27 20:59:40,417] DEBUG ----- UserDAOImpl.validateUsername() method ends -----
+[2014-04-27 20:59:40,418] INFO  BaseDAO.getConnection method ends
+[2014-04-27 20:59:40,419] INFO  Property File courierportal.properties Loaded Successfully....
+[2014-04-27 20:59:40,631] INFO  Database Connection is Obtained
+[2014-04-27 20:59:40,631] INFO  BaseDAO.getConnection method begins
+[2014-04-27 20:59:40,653] DEBUG ----- UserDAOImpl.validateUsername() method ends -----
+[2014-04-27 20:59:40,654] INFO  Database Connection is Closed...
+[2014-04-27 20:59:40,655] DEBUG ----- UserService.userRegister() method ends -----
+[2014-04-27 20:59:52,502] DEBUG ----- UserService.userRegister() method begins -----
+[2014-04-27 20:59:55,501] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method begins -----
+[2014-04-27 20:59:55,502] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method ends -----
+[2014-04-27 20:59:59,342] DEBUG ----- UserDAOImpl.validateUsername() method ends -----
+[2014-04-27 21:00:00,480] INFO  BaseDAO.getConnection method ends
+[2014-04-27 21:00:00,519] INFO  Database Connection is Obtained
+[2014-04-27 21:00:00,519] INFO  BaseDAO.getConnection method begins
+[2014-04-27 21:01:02,927] DEBUG ----- UserDAOImpl.validateUsername() method ends -----
+[2014-04-27 21:01:02,928] INFO  Database Connection is Closed...
+[2014-04-27 21:01:02,928] DEBUG ----- UserService.userRegister() method ends -----
+[2014-04-27 21:01:09,859] DEBUG ----- UserService.userRegister() method begins -----
+[2014-04-27 21:01:11,492] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method begins -----
+[2014-04-27 21:01:11,492] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method ends -----
+[2014-04-27 21:01:15,031] DEBUG ----- UserDAOImpl.validateUsername() method ends -----
+[2014-04-27 21:01:16,141] INFO  BaseDAO.getConnection method ends
+[2014-04-27 21:01:16,180] INFO  Database Connection is Obtained
+[2014-04-27 21:01:16,180] INFO  BaseDAO.getConnection method begins
+[2014-04-27 21:02:28,625] DEBUG ----- UserDAOImpl.validateUsername() method ends -----
+[2014-04-27 21:02:28,626] INFO  Database Connection is Closed...
+[2014-04-27 21:02:28,626] DEBUG ----- UserService.userRegister() method ends -----
+[2014-04-27 21:02:41,412] DEBUG ----- UserService.userRegister() method begins -----
+[2014-04-27 21:02:48,687] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method begins -----
+[2014-04-27 21:02:48,687] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method ends -----
+[2014-04-27 21:02:59,184] DEBUG ----- UserDAOImpl.validateUsername() method ends -----
+[2014-04-27 21:02:59,185] INFO  BaseDAO.getConnection method ends
+[2014-04-27 21:02:59,213] INFO  Database Connection is Obtained
+[2014-04-27 21:02:59,213] INFO  BaseDAO.getConnection method begins
+[2014-04-27 21:02:59,214] DEBUG ----- UserDAOImpl.validateUsername() method ends -----
+[2014-04-27 21:02:59,214] INFO  Database Connection is Closed...
+[2014-04-27 21:02:59,214] DEBUG ----- UserService.userRegister() method ends -----
+[2014-04-27 21:03:19,294] DEBUG ----- UserService.userRegister() method begins -----
+[2014-04-27 21:03:19,294] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method begins -----
+[2014-04-27 21:03:19,294] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method ends -----
+[2014-04-27 21:03:20,188] DEBUG ----- UserDAOImpl.validateUsername() method ends -----
+[2014-04-27 21:03:20,188] INFO  BaseDAO.getConnection method ends
+[2014-04-27 21:03:20,213] INFO  Database Connection is Obtained
+[2014-04-27 21:03:20,213] INFO  BaseDAO.getConnection method begins
+[2014-04-27 21:03:34,695] DEBUG ----- UserDAOImpl.validateUsername() method ends -----
+[2014-04-27 21:03:35,965] INFO  Database Connection is Closed...
+[2014-04-27 21:17:06,455] DEBUG ----- UserService.userRegister() method begins -----
+[2014-04-27 21:17:07,660] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method begins -----
+[2014-04-27 21:17:07,661] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method ends -----
+[2014-04-27 21:17:14,508] DEBUG ----- UserDAOImpl.validateUsername() method ends -----
+[2014-04-27 21:17:17,991] INFO  BaseDAO.getConnection method ends
+[2014-04-27 21:17:18,004] INFO  Property File courierportal.properties Loaded Successfully....
+[2014-04-27 21:17:18,501] INFO  Database Connection is Obtained
+[2014-04-27 21:17:18,501] INFO  BaseDAO.getConnection method begins
+[2014-04-27 21:17:25,943] DEBUG ----- UserDAOImpl.validateUsername() method ends -----
+[2014-04-27 21:17:41,203] INFO  Database Connection is Closed...
+[2014-04-27 21:17:41,207] DEBUG ----- UserService.userRegister() method ends -----
+[2014-04-27 21:18:19,161] DEBUG ----- UserService.userRegister() method begins -----
+[2014-04-27 21:18:20,272] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method begins -----
+[2014-04-27 21:18:20,272] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method ends -----
+[2014-04-27 21:18:32,755] DEBUG ----- UserDAOImpl.validateUsername() method ends -----
+[2014-04-27 21:18:36,597] INFO  BaseDAO.getConnection method ends
+[2014-04-27 21:18:36,642] INFO  Database Connection is Obtained
+[2014-04-27 21:18:36,643] INFO  BaseDAO.getConnection method begins
+[2014-04-27 21:19:10,432] DEBUG ----- UserDAOImpl.validateUsername() method ends -----
+[2014-04-27 21:19:15,537] INFO  Database Connection is Closed...
+[2014-04-27 21:19:25,675] DEBUG ----- UserService.userRegister() method ends -----
+[2014-04-27 21:24:03,194] DEBUG ----- UserService.userRegister() method begins -----
+[2014-04-27 21:24:03,194] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method begins -----
+[2014-04-27 21:24:03,194] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method ends -----
+[2014-04-27 21:24:03,195] DEBUG ----- UserDAOImpl.validateUsername() method ends -----
+[2014-04-27 21:24:03,195] INFO  BaseDAO.getConnection method ends
+[2014-04-27 21:24:03,208] INFO  Database Connection is Obtained
+[2014-04-27 21:24:03,208] INFO  BaseDAO.getConnection method begins
+[2014-04-27 21:24:03,208] DEBUG ----- UserDAOImpl.validateUsername() method ends -----
+[2014-04-27 21:24:03,208] INFO  Database Connection is Closed...
+[2014-04-27 21:24:03,208] DEBUG ----- UserService.userRegister() method ends -----
+[2014-04-27 21:25:18,480] DEBUG ----- UserService.userRegister() method begins -----
+[2014-04-27 21:25:18,482] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method begins -----
+[2014-04-27 21:25:18,482] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method ends -----
+[2014-04-27 21:25:18,482] DEBUG ----- UserDAOImpl.validateUsername() method ends -----
+[2014-04-27 21:25:18,482] INFO  BaseDAO.getConnection method ends
+[2014-04-27 21:25:18,483] INFO  Property File courierportal.properties Loaded Successfully....
+[2014-04-27 21:25:18,658] INFO  Database Connection is Obtained
+[2014-04-27 21:25:18,658] INFO  BaseDAO.getConnection method begins
+[2014-04-27 21:25:18,670] DEBUG ----- UserDAOImpl.validateUsername() method ends -----
+[2014-04-27 21:25:18,671] INFO  Database Connection is Closed...
+[2014-04-27 21:25:18,671] DEBUG ----- UserService.userRegister() method ends -----
+[2014-04-27 21:26:20,255] DEBUG ----- UserService.userRegister() method begins -----
+[2014-04-27 21:26:24,038] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method begins -----
+[2014-04-27 21:26:24,050] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method ends -----
+[2014-04-27 21:26:26,025] DEBUG ----- UserDAOImpl.validateUsername() method ends -----
+[2014-04-27 21:26:26,026] INFO  BaseDAO.getConnection method ends
+[2014-04-27 21:26:26,043] INFO  Property File courierportal.properties Loaded Successfully....
+[2014-04-27 21:26:26,532] INFO  Database Connection is Obtained
+[2014-04-27 21:26:26,532] INFO  BaseDAO.getConnection method begins
+[2014-04-27 21:26:26,555] DEBUG ----- UserDAOImpl.validateUsername() method ends -----
+[2014-04-27 21:26:26,558] INFO  Database Connection is Closed...
+[2014-04-27 21:27:46,267] DEBUG ----- UserService.userRegister() method begins -----
+[2014-04-27 21:27:46,270] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method begins -----
+[2014-04-27 21:27:46,270] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method ends -----
+[2014-04-27 21:27:46,270] DEBUG ----- UserDAOImpl.validateUsername() method ends -----
+[2014-04-27 21:27:46,271] INFO  BaseDAO.getConnection method ends
+[2014-04-27 21:27:46,271] INFO  Property File courierportal.properties Loaded Successfully....
+[2014-04-27 21:27:46,419] INFO  Database Connection is Obtained
+[2014-04-27 21:27:46,419] INFO  BaseDAO.getConnection method begins
+[2014-04-27 21:27:46,429] DEBUG ----- UserDAOImpl.validateUsername() method ends -----
+[2014-04-27 21:27:46,430] INFO  Database Connection is Closed...
+[2014-04-27 21:27:46,430] DEBUG ----- UserService.userRegister() method ends -----
+[2014-04-27 21:29:32,868] DEBUG ----- UserService.userRegister() method begins -----
+[2014-04-27 21:29:32,868] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method begins -----
+[2014-04-27 21:29:32,869] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method ends -----
+[2014-04-27 21:29:32,871] DEBUG ----- UserDAOImpl.registerUser() method begins -----
+[2014-04-27 21:29:32,871] INFO  BaseDAO.getConnection method ends
+[2014-04-27 21:29:32,872] INFO  Property File courierportal.properties Loaded Successfully....
+[2014-04-27 21:29:33,040] INFO  Database Connection is Obtained
+[2014-04-27 21:29:33,040] INFO  BaseDAO.getConnection method begins
+[2014-04-27 21:29:33,040] DEBUG User details insertion into database begins
+[2014-04-27 21:29:33,041] DEBUG ----- AddressDAOImpl.insertAddress() method begins -----
+[2014-04-27 21:29:33,041] DEBUG Address details insertion into database begins
+[2014-04-27 21:29:33,057] ERROR Error Occurred in AddressDAOImpl.insertAddress() : Can not issue data manipulation statements with executeQuery().
+[2014-04-27 21:29:33,057] DEBUG ----- AddressDAOImpl.insertAddress() method ends -----
+[2014-04-27 21:29:33,057] ERROR Error Occurred in UserDAOImpl.registerUser() : Creating address failed, no generated key obtained
+[2014-04-27 21:29:33,057] DEBUG ----- UserDAOImpl.registerUser() method ends -----
+[2014-04-27 21:29:33,058] INFO  Database Connection is Closed...
+[2014-04-27 21:29:33,058] DEBUG ----- UserService.userRegister() method ends -----
+[2014-04-27 21:30:16,055] DEBUG ----- UserService.userRegister() method begins -----
+[2014-04-27 21:30:17,392] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method begins -----
+[2014-04-27 21:30:17,400] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method ends -----
+[2014-04-27 21:30:23,104] DEBUG ----- UserDAOImpl.registerUser() method begins -----
+[2014-04-27 21:30:26,946] INFO  BaseDAO.getConnection method ends
+[2014-04-27 21:30:26,960] INFO  Property File courierportal.properties Loaded Successfully....
+[2014-04-27 21:30:27,463] INFO  Database Connection is Obtained
+[2014-04-27 21:30:27,463] INFO  BaseDAO.getConnection method begins
+[2014-04-27 21:30:28,940] DEBUG User details insertion into database begins
+[2014-04-27 21:30:29,999] DEBUG ----- AddressDAOImpl.insertAddress() method begins -----
+[2014-04-27 21:30:30,000] DEBUG Address details insertion into database begins
+[2014-04-27 21:30:30,065] ERROR Error Occurred in AddressDAOImpl.insertAddress() : Can not issue data manipulation statements with executeQuery().
+[2014-04-27 21:30:30,065] DEBUG ----- AddressDAOImpl.insertAddress() method ends -----
+[2014-04-27 21:31:01,308] ERROR Error Occurred in UserDAOImpl.registerUser() : Creating address failed, no generated key obtained
+[2014-04-27 21:31:01,309] DEBUG ----- UserDAOImpl.registerUser() method ends -----
+[2014-04-27 21:31:01,313] INFO  Database Connection is Closed...
+[2014-04-27 21:31:01,314] DEBUG ----- UserService.userRegister() method ends -----
+[2014-04-27 21:31:10,610] DEBUG ----- UserService.userRegister() method begins -----
+[2014-04-27 21:31:11,913] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method begins -----
+[2014-04-27 21:31:11,914] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method ends -----
+[2014-04-27 21:31:11,914] DEBUG ----- UserDAOImpl.registerUser() method begins -----
+[2014-04-27 21:31:11,915] INFO  BaseDAO.getConnection method ends
+[2014-04-27 21:31:11,940] INFO  Database Connection is Obtained
+[2014-04-27 21:31:11,940] INFO  BaseDAO.getConnection method begins
+[2014-04-27 21:31:11,940] DEBUG User details insertion into database begins
+[2014-04-27 21:31:21,265] DEBUG ----- AddressDAOImpl.insertAddress() method begins -----
+[2014-04-27 21:31:24,479] DEBUG Address details insertion into database begins
+[2014-04-27 21:32:28,567] ERROR Error Occurred in AddressDAOImpl.insertAddress() : Can not issue data manipulation statements with executeQuery().
+[2014-04-27 21:32:40,270] DEBUG ----- AddressDAOImpl.insertAddress() method ends -----
+[2014-04-27 21:32:40,270] ERROR Error Occurred in UserDAOImpl.registerUser() : Creating address failed, no generated key obtained
+[2014-04-27 21:32:40,271] DEBUG ----- UserDAOImpl.registerUser() method ends -----
+[2014-04-27 21:32:40,271] INFO  Database Connection is Closed...
+[2014-04-27 21:32:40,271] DEBUG ----- UserService.userRegister() method ends -----
+[2014-04-27 21:32:48,065] DEBUG ----- UserService.userRegister() method begins -----
+[2014-04-27 21:32:49,215] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method begins -----
+[2014-04-27 21:32:49,215] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method ends -----
+[2014-04-27 21:32:49,215] DEBUG ----- UserDAOImpl.registerUser() method begins -----
+[2014-04-27 21:32:49,215] INFO  BaseDAO.getConnection method ends
+[2014-04-27 21:32:49,257] INFO  Database Connection is Obtained
+[2014-04-27 21:32:49,257] INFO  BaseDAO.getConnection method begins
+[2014-04-27 21:32:49,257] DEBUG User details insertion into database begins
+[2014-04-27 21:32:53,540] DEBUG ----- AddressDAOImpl.insertAddress() method begins -----
+[2014-04-27 21:32:56,532] DEBUG Address details insertion into database begins
+[2014-04-27 21:33:20,880] ERROR Error Occurred in AddressDAOImpl.insertAddress() : Can not issue data manipulation statements with executeQuery().
+[2014-04-27 21:33:26,736] DEBUG ----- AddressDAOImpl.insertAddress() method ends -----
+[2014-04-27 21:33:26,736] ERROR Error Occurred in UserDAOImpl.registerUser() : Creating address failed, no generated key obtained
+[2014-04-27 21:33:26,736] DEBUG ----- UserDAOImpl.registerUser() method ends -----
+[2014-04-27 21:33:26,737] INFO  Database Connection is Closed...
+[2014-04-27 21:33:26,737] DEBUG ----- UserService.userRegister() method ends -----
+[2014-04-27 21:33:35,329] DEBUG ----- UserService.userRegister() method begins -----
+[2014-04-27 21:33:35,929] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method begins -----
+[2014-04-27 21:33:35,930] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method ends -----
+[2014-04-27 21:33:35,930] DEBUG ----- UserDAOImpl.registerUser() method begins -----
+[2014-04-27 21:33:35,930] INFO  BaseDAO.getConnection method ends
+[2014-04-27 21:33:35,946] INFO  Database Connection is Obtained
+[2014-04-27 21:33:35,946] INFO  BaseDAO.getConnection method begins
+[2014-04-27 21:33:35,946] DEBUG User details insertion into database begins
+[2014-04-27 21:33:39,563] DEBUG ----- AddressDAOImpl.insertAddress() method begins -----
+[2014-04-27 21:33:40,729] DEBUG Address details insertion into database begins
+[2014-04-27 21:33:44,002] ERROR Error Occurred in AddressDAOImpl.insertAddress() : Can not issue data manipulation statements with executeQuery().
+[2014-04-27 21:33:53,848] DEBUG ----- AddressDAOImpl.insertAddress() method ends -----
+[2014-04-27 21:33:53,849] ERROR Error Occurred in UserDAOImpl.registerUser() : Creating address failed, no generated key obtained
+[2014-04-27 21:33:53,849] DEBUG ----- UserDAOImpl.registerUser() method ends -----
+[2014-04-27 21:33:53,849] INFO  Database Connection is Closed...
+[2014-04-27 21:33:53,850] DEBUG ----- UserService.userRegister() method ends -----
+[2014-04-27 21:35:46,243] DEBUG ----- UserService.userRegister() method begins -----
+[2014-04-27 21:35:46,244] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method begins -----
+[2014-04-27 21:35:46,246] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method ends -----
+[2014-04-27 21:35:46,253] DEBUG ----- UserDAOImpl.registerUser() method begins -----
+[2014-04-27 21:35:46,253] INFO  BaseDAO.getConnection method ends
+[2014-04-27 21:35:46,256] INFO  Property File courierportal.properties Loaded Successfully....
+[2014-04-27 21:35:46,791] INFO  Database Connection is Obtained
+[2014-04-27 21:35:46,792] INFO  BaseDAO.getConnection method begins
+[2014-04-27 21:35:46,792] DEBUG User details insertion into database begins
+[2014-04-27 21:35:46,794] DEBUG ----- AddressDAOImpl.insertAddress() method begins -----
+[2014-04-27 21:35:46,794] DEBUG Address details insertion into database begins
+[2014-04-27 21:35:46,854] ERROR Error Occurred in AddressDAOImpl.insertAddress() : Can not issue data manipulation statements with executeQuery().
+[2014-04-27 21:35:46,854] DEBUG ----- AddressDAOImpl.insertAddress() method ends -----
+[2014-04-27 21:35:46,856] ERROR Error Occurred in UserDAOImpl.registerUser() : Creating address failed, no generated key obtained
+[2014-04-27 21:35:46,856] DEBUG ----- UserDAOImpl.registerUser() method ends -----
+[2014-04-27 21:35:46,859] INFO  Database Connection is Closed...
+[2014-04-27 21:35:46,859] DEBUG ----- UserService.userRegister() method ends -----
+[2014-04-27 21:40:21,750] DEBUG ----- UserService.userRegister() method begins -----
+[2014-04-27 21:40:23,778] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method begins -----
+[2014-04-27 21:40:23,782] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method ends -----
+[2014-04-27 21:40:23,808] DEBUG ----- UserDAOImpl.registerUser() method begins -----
+[2014-04-27 21:40:23,808] INFO  BaseDAO.getConnection method ends
+[2014-04-27 21:40:23,813] INFO  Property File courierportal.properties Loaded Successfully....
+[2014-04-27 21:40:24,148] INFO  Database Connection is Obtained
+[2014-04-27 21:40:24,148] INFO  BaseDAO.getConnection method begins
+[2014-04-27 21:40:24,148] DEBUG User details insertion into database begins
+[2014-04-27 21:40:30,991] DEBUG ----- AddressDAOImpl.insertAddress() method begins -----
+[2014-04-27 21:40:32,786] DEBUG Address details insertion into database begins
+[2014-04-27 21:40:43,357] DEBUG Address details insertion into database completed
+[2014-04-27 21:40:43,357] DEBUG ----- AddressDAOImpl.insertAddress() method ends -----
+[2014-04-27 21:40:43,362] DEBUG ----- ContactDAOImpl.insertContact() method begins -----
+[2014-04-27 21:40:43,366] DEBUG Contact details insertion into database begins
+[2014-04-27 21:40:43,400] ERROR Error Occurred in ContactDAOImpl.insertContact() : Can not issue data manipulation statements with executeQuery().
+[2014-04-27 21:40:43,401] DEBUG ----- ContactDAOImpl.insertContact() method ends -----
+[2014-04-27 21:40:43,401] ERROR Error Occurred in UserDAOImpl.registerUser() : Creating contact failed, no generated key obtained
+[2014-04-27 21:40:43,401] DEBUG ----- UserDAOImpl.registerUser() method ends -----
+[2014-04-27 21:40:43,403] INFO  Database Connection is Closed...
+[2014-04-27 21:40:43,403] DEBUG ----- UserService.userRegister() method ends -----
+[2014-04-27 21:46:35,390] DEBUG ----- UserService.userRegister() method begins -----
+[2014-04-27 21:46:35,391] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method begins -----
+[2014-04-27 21:46:35,393] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method ends -----
+[2014-04-27 21:46:35,400] DEBUG ----- UserDAOImpl.registerUser() method begins -----
+[2014-04-27 21:46:35,400] INFO  BaseDAO.getConnection method ends
+[2014-04-27 21:46:35,403] INFO  Property File courierportal.properties Loaded Successfully....
+[2014-04-27 21:46:35,927] INFO  Database Connection is Obtained
+[2014-04-27 21:46:35,927] INFO  BaseDAO.getConnection method begins
+[2014-04-27 21:46:35,927] DEBUG User details insertion into database begins
+[2014-04-27 21:46:35,930] DEBUG ----- AddressDAOImpl.insertAddress() method begins -----
+[2014-04-27 21:46:35,930] DEBUG Address details insertion into database begins
+[2014-04-27 21:46:36,045] DEBUG Address details insertion into database completed
+[2014-04-27 21:46:36,045] DEBUG ----- AddressDAOImpl.insertAddress() method ends -----
+[2014-04-27 21:46:36,048] DEBUG ----- ContactDAOImpl.insertContact() method begins -----
+[2014-04-27 21:46:36,048] DEBUG Contact details insertion into database begins
+[2014-04-27 21:46:36,100] DEBUG Contact details insertion into database completed
+[2014-04-27 21:46:36,101] DEBUG ----- ContactDAOImpl.insertContact() method ends -----
+[2014-04-27 21:46:36,126] ERROR Error Occurred in UserDAOImpl.registerUser() : Can not issue data manipulation statements with executeQuery().
+[2014-04-27 21:46:36,127] DEBUG ----- UserDAOImpl.registerUser() method ends -----
+[2014-04-27 21:46:36,129] INFO  Database Connection is Closed...
+[2014-04-27 21:46:36,129] DEBUG ----- UserService.userRegister() method ends -----
+[2014-04-27 21:47:25,212] DEBUG ----- UserService.userRegister() method begins -----
+[2014-04-27 21:47:26,465] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method begins -----
+[2014-04-27 21:47:26,469] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method ends -----
+[2014-04-27 21:47:26,498] DEBUG ----- UserDAOImpl.registerUser() method begins -----
+[2014-04-27 21:47:26,498] INFO  BaseDAO.getConnection method ends
+[2014-04-27 21:47:26,503] INFO  Property File courierportal.properties Loaded Successfully....
+[2014-04-27 21:47:26,748] INFO  Database Connection is Obtained
+[2014-04-27 21:47:26,749] INFO  BaseDAO.getConnection method begins
+[2014-04-27 21:47:26,749] DEBUG User details insertion into database begins
+[2014-04-27 21:47:29,358] DEBUG ----- AddressDAOImpl.insertAddress() method begins -----
+[2014-04-27 21:47:29,359] DEBUG Address details insertion into database begins
+[2014-04-27 21:47:29,514] DEBUG Address details insertion into database completed
+[2014-04-27 21:47:29,515] DEBUG ----- AddressDAOImpl.insertAddress() method ends -----
+[2014-04-27 21:47:32,756] DEBUG ----- ContactDAOImpl.insertContact() method begins -----
+[2014-04-27 21:47:32,757] DEBUG Contact details insertion into database begins
+[2014-04-27 21:47:32,837] DEBUG Contact details insertion into database completed
+[2014-04-27 21:47:32,837] DEBUG ----- ContactDAOImpl.insertContact() method ends -----
+[2014-04-27 21:47:42,597] ERROR Error Occurred in UserDAOImpl.registerUser() : Can not issue data manipulation statements with executeQuery().
+[2014-04-27 21:47:42,598] DEBUG ----- UserDAOImpl.registerUser() method ends -----
+[2014-04-27 21:47:42,602] INFO  Database Connection is Closed...
+[2014-04-27 21:47:42,602] DEBUG ----- UserService.userRegister() method ends -----
+[2014-04-27 21:50:57,251] DEBUG ----- UserService.userRegister() method begins -----
+[2014-04-27 21:50:57,252] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method begins -----
+[2014-04-27 21:50:57,254] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method ends -----
+[2014-04-27 21:50:57,262] DEBUG ----- UserDAOImpl.registerUser() method begins -----
+[2014-04-27 21:50:57,262] INFO  BaseDAO.getConnection method ends
+[2014-04-27 21:50:57,265] INFO  Property File courierportal.properties Loaded Successfully....
+[2014-04-27 21:50:57,811] INFO  Database Connection is Obtained
+[2014-04-27 21:50:57,811] INFO  BaseDAO.getConnection method begins
+[2014-04-27 21:50:57,811] DEBUG User details insertion into database begins
+[2014-04-27 21:50:57,814] DEBUG ----- AddressDAOImpl.insertAddress() method begins -----
+[2014-04-27 21:50:57,814] DEBUG Address details insertion into database begins
+[2014-04-27 21:50:57,930] DEBUG Address details insertion into database completed
+[2014-04-27 21:50:57,930] DEBUG ----- AddressDAOImpl.insertAddress() method ends -----
+[2014-04-27 21:50:57,932] DEBUG ----- ContactDAOImpl.insertContact() method begins -----
+[2014-04-27 21:50:57,932] DEBUG Contact details insertion into database begins
+[2014-04-27 21:50:57,985] DEBUG Contact details insertion into database completed
+[2014-04-27 21:50:57,985] DEBUG ----- ContactDAOImpl.insertContact() method ends -----
+[2014-04-27 21:50:58,040] DEBUG User details insertion into database completed
+[2014-04-27 21:50:58,041] DEBUG ----- UserDAOImpl.registerUser() method ends -----
+[2014-04-27 21:50:58,043] INFO  Database Connection is Closed...
+[2014-04-27 21:50:58,045] DEBUG ----- UserService.userRegister() method ends -----
+[2014-04-27 21:53:51,632] DEBUG ----- UserService.userLogin() method begins -----
+[2014-04-27 21:53:51,633] DEBUG ----- UserRequestValidation.validateLoginRequest() method begins -----
+[2014-04-27 21:53:51,633] DEBUG ----- UserRequestValidation.validateLoginRequest() method ends -----
+[2014-04-27 21:53:51,634] DEBUG ----- UserDAOImpl.authenticateUser() method ends -----
+[2014-04-27 21:53:51,634] INFO  BaseDAO.getConnection method ends
+[2014-04-27 21:53:51,669] INFO  Database Connection is Obtained
+[2014-04-27 21:53:51,669] INFO  BaseDAO.getConnection method begins
+[2014-04-27 21:53:51,670] DEBUG No relevant record found in database
+[2014-04-27 21:53:51,671] DEBUG ----- UserDAOImpl.authenticateUser() method ends -----
+[2014-04-27 21:53:51,671] INFO  Database Connection is Closed...
+[2014-04-27 21:53:51,671] DEBUG ----- UserService.userLogin() method ends -----
+[2014-04-27 21:56:16,510] DEBUG ----- UserService.userLogin() method begins -----
+[2014-04-27 21:56:16,511] DEBUG ----- UserRequestValidation.validateLoginRequest() method begins -----
+[2014-04-27 21:56:16,511] DEBUG ----- UserRequestValidation.validateLoginRequest() method ends -----
+[2014-04-27 21:56:16,511] DEBUG ----- UserDAOImpl.authenticateUser() method ends -----
+[2014-04-27 21:56:16,511] INFO  BaseDAO.getConnection method ends
+[2014-04-27 21:56:16,559] INFO  Database Connection is Obtained
+[2014-04-27 21:56:16,559] INFO  BaseDAO.getConnection method begins
+[2014-04-27 21:56:16,559] DEBUG No relevant record found in database
+[2014-04-27 21:56:16,559] DEBUG ----- UserDAOImpl.authenticateUser() method ends -----
+[2014-04-27 21:56:16,560] INFO  Database Connection is Closed...
+[2014-04-27 21:56:16,560] DEBUG ----- UserService.userLogin() method ends -----
+[2014-04-27 22:00:48,850] DEBUG ----- UserService.userLogin() method begins -----
+[2014-04-27 22:00:48,851] DEBUG ----- UserRequestValidation.validateLoginRequest() method begins -----
+[2014-04-27 22:00:48,853] DEBUG ----- UserRequestValidation.validateLoginRequest() method ends -----
+[2014-04-27 22:00:52,367] DEBUG ----- UserDAOImpl.authenticateUser() method ends -----
+[2014-04-27 22:00:52,367] INFO  BaseDAO.getConnection method ends
+[2014-04-27 22:00:52,372] INFO  Property File courierportal.properties Loaded Successfully....
+[2014-04-27 22:00:52,620] INFO  Database Connection is Obtained
+[2014-04-27 22:00:52,620] INFO  BaseDAO.getConnection method begins
+[2014-04-27 22:00:52,633] DEBUG No relevant record found in database
+[2014-04-27 22:00:52,633] DEBUG ----- UserDAOImpl.authenticateUser() method ends -----
+[2014-04-27 22:00:52,634] INFO  Database Connection is Closed...
+[2014-04-27 22:00:52,634] DEBUG ----- UserService.userLogin() method ends -----
+[2014-04-27 22:01:02,918] DEBUG ----- UserService.userLogin() method begins -----
+[2014-04-27 22:01:02,920] DEBUG ----- UserRequestValidation.validateLoginRequest() method begins -----
+[2014-04-27 22:01:02,921] DEBUG ----- UserRequestValidation.validateLoginRequest() method ends -----
+[2014-04-27 22:01:05,253] DEBUG ----- UserDAOImpl.authenticateUser() method ends -----
+[2014-04-27 22:01:09,723] INFO  BaseDAO.getConnection method ends
+[2014-04-27 22:01:09,848] INFO  Database Connection is Obtained
+[2014-04-27 22:01:09,848] INFO  BaseDAO.getConnection method begins
+[2014-04-27 22:04:41,276] DEBUG ----- UserService.userLogin() method begins -----
+[2014-04-27 22:04:41,277] DEBUG ----- UserRequestValidation.validateLoginRequest() method begins -----
+[2014-04-27 22:04:41,279] DEBUG ----- UserRequestValidation.validateLoginRequest() method ends -----
+[2014-04-27 22:04:41,286] DEBUG ----- UserDAOImpl.authenticateUser() method ends -----
+[2014-04-27 22:04:41,287] INFO  BaseDAO.getConnection method ends
+[2014-04-27 22:04:41,290] INFO  Property File courierportal.properties Loaded Successfully....
+[2014-04-27 22:04:41,824] INFO  Database Connection is Obtained
+[2014-04-27 22:04:41,824] INFO  BaseDAO.getConnection method begins
+[2014-04-27 22:04:41,861] DEBUG ----- UserDAOImpl.authenticateUser() method ends -----
+[2014-04-27 22:04:41,863] INFO  Database Connection is Closed...
+[2014-04-27 22:04:41,865] DEBUG ----- UserService.userLogin() method ends -----
+[2014-04-27 22:05:27,080] DEBUG ----- UserService.userLogin() method begins -----
+[2014-04-27 22:05:27,081] DEBUG ----- UserRequestValidation.validateLoginRequest() method begins -----
+[2014-04-27 22:05:27,082] DEBUG Invalid request parameters
+[2014-04-27 22:05:27,082] DEBUG ----- UserRequestValidation.validateLoginRequest() method ends -----
+[2014-04-27 22:05:27,082] DEBUG ----- UserService.userLogin() method ends -----
+[2014-04-27 22:06:06,524] DEBUG ----- UserService.userRegister() method begins -----
+[2014-04-27 22:06:06,525] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method begins -----
+[2014-04-27 22:06:06,525] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method ends -----
+[2014-04-27 22:06:06,526] DEBUG ----- UserDAOImpl.validateUsername() method ends -----
+[2014-04-27 22:06:06,528] INFO  BaseDAO.getConnection method ends
+[2014-04-27 22:06:06,558] INFO  Database Connection is Obtained
+[2014-04-27 22:06:06,558] INFO  BaseDAO.getConnection method begins
+[2014-04-27 22:06:06,559] DEBUG ----- UserDAOImpl.validateUsername() method ends -----
+[2014-04-27 22:06:06,559] INFO  Database Connection is Closed...
+[2014-04-27 22:06:06,559] DEBUG ----- UserService.userRegister() method ends -----
+[2014-04-27 22:06:15,309] DEBUG ----- UserService.userRegister() method begins -----
+[2014-04-27 22:06:15,309] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method begins -----
+[2014-04-27 22:06:15,310] DEBUG ----- UserRequestValidation.validateRegistrationRequest() method ends -----
+[2014-04-27 22:06:15,310] DEBUG ----- UserDAOImpl.validateUsername() method ends -----
+[2014-04-27 22:06:15,310] INFO  BaseDAO.getConnection method ends
+[2014-04-27 22:06:15,343] INFO  Database Connection is Obtained
+[2014-04-27 22:06:15,343] INFO  BaseDAO.getConnection method begins
+[2014-04-27 22:06:15,344] DEBUG No relevant record found in database
+[2014-04-27 22:06:15,344] DEBUG ----- UserDAOImpl.validateUsername() method ends -----
+[2014-04-27 22:06:15,345] INFO  Database Connection is Closed...
+[2014-04-27 22:06:15,345] DEBUG ----- UserDAOImpl.registerUser() method begins -----
+[2014-04-27 22:06:15,345] INFO  BaseDAO.getConnection method ends
+[2014-04-27 22:06:15,397] INFO  Database Connection is Obtained
+[2014-04-27 22:06:15,397] INFO  BaseDAO.getConnection method begins
+[2014-04-27 22:06:15,397] DEBUG User details insertion into database begins
+[2014-04-27 22:06:15,404] DEBUG ----- AddressDAOImpl.insertAddress() method begins -----
+[2014-04-27 22:06:15,404] DEBUG Address details insertion into database begins
+[2014-04-27 22:06:15,489] DEBUG Address details insertion into database completed
+[2014-04-27 22:06:15,490] DEBUG ----- AddressDAOImpl.insertAddress() method ends -----
+[2014-04-27 22:06:15,492] DEBUG ----- ContactDAOImpl.insertContact() method begins -----
+[2014-04-27 22:06:15,492] DEBUG Contact details insertion into database begins
+[2014-04-27 22:06:15,544] DEBUG Contact details insertion into database completed
+[2014-04-27 22:06:15,544] DEBUG ----- ContactDAOImpl.insertContact() method ends -----
+[2014-04-27 22:06:15,599] DEBUG User details insertion into database completed
+[2014-04-27 22:06:15,599] DEBUG ----- UserDAOImpl.registerUser() method ends -----
+[2014-04-27 22:06:15,600] INFO  Database Connection is Closed...
+[2014-04-27 22:06:15,600] DEBUG ----- UserService.userRegister() method ends -----
+[2014-04-27 22:11:12,345] DEBUG ----- DeliveryService.placeOrder() method begins -----
+[2014-04-27 22:11:12,346] DEBUG ----- DeliveryRequestValidation.validatePlaceOrderRequest() method begins -----
+[2014-04-27 22:11:12,347] DEBUG Invalid request parameters
+[2014-04-27 22:11:12,347] DEBUG ----- DeliveryRequestValidation.validatePlaceOrderRequest() method ends -----
+[2014-04-27 22:11:12,347] DEBUG ----- DeliveryService.placeOrder() method ends -----
+[2014-04-27 22:12:22,242] DEBUG ----- DeliveryService.placeOrder() method begins -----
+[2014-04-27 22:12:22,259] DEBUG ----- DeliveryRequestValidation.validatePlaceOrderRequest() method begins -----
+[2014-04-27 22:13:10,924] DEBUG Invalid request parameters
+[2014-04-27 22:13:10,924] DEBUG ----- DeliveryRequestValidation.validatePlaceOrderRequest() method ends -----
+[2014-04-27 22:13:10,927] DEBUG ----- DeliveryService.placeOrder() method ends -----
+[2014-04-27 22:13:13,979] DEBUG ----- DeliveryService.placeOrder() method begins -----
+[2014-04-27 22:13:13,980] DEBUG ----- DeliveryRequestValidation.validatePlaceOrderRequest() method begins -----
+[2014-04-27 22:13:24,587] DEBUG Invalid request parameters
+[2014-04-27 22:13:24,587] DEBUG ----- DeliveryRequestValidation.validatePlaceOrderRequest() method ends -----
+[2014-04-27 22:13:24,588] DEBUG ----- DeliveryService.placeOrder() method ends -----
+[2014-04-27 22:13:52,445] DEBUG ----- DeliveryService.placeOrder() method begins -----
+[2014-04-27 22:13:52,445] DEBUG ----- DeliveryRequestValidation.validatePlaceOrderRequest() method begins -----
+[2014-04-27 22:14:19,488] DEBUG Invalid request parameters
+[2014-04-27 22:14:19,489] DEBUG ----- DeliveryRequestValidation.validatePlaceOrderRequest() method ends -----
+[2014-04-27 22:14:19,489] DEBUG ----- DeliveryService.placeOrder() method ends -----
+[2014-04-27 22:15:21,519] DEBUG ----- DeliveryService.placeOrder() method begins -----
+[2014-04-27 22:15:21,520] DEBUG ----- DeliveryRequestValidation.validatePlaceOrderRequest() method begins -----
+[2014-04-27 22:16:43,298] DEBUG Invalid request parameters
+[2014-04-27 22:16:43,299] DEBUG ----- DeliveryRequestValidation.validatePlaceOrderRequest() method ends -----
+[2014-04-27 22:16:43,299] DEBUG ----- DeliveryService.placeOrder() method ends -----
+[2014-04-27 22:19:08,757] DEBUG ----- DeliveryService.placeOrder() method begins -----
+[2014-04-27 22:19:12,078] DEBUG ----- DeliveryRequestValidation.validatePlaceOrderRequest() method begins -----
+[2014-04-27 22:19:12,947] DEBUG Invalid request parameters
+[2014-04-27 22:19:12,947] DEBUG ----- DeliveryRequestValidation.validatePlaceOrderRequest() method ends -----
+[2014-04-27 22:19:12,951] DEBUG ----- DeliveryService.placeOrder() method ends -----
+[2014-04-27 22:19:26,725] DEBUG ----- DeliveryService.placeOrder() method begins -----
+[2014-04-27 22:19:28,799] DEBUG ----- DeliveryRequestValidation.validatePlaceOrderRequest() method begins -----
+[2014-04-27 22:21:59,721] DEBUG Invalid request parameters
+[2014-04-27 22:21:59,721] DEBUG ----- DeliveryRequestValidation.validatePlaceOrderRequest() method ends -----
+[2014-04-27 22:21:59,721] DEBUG ----- DeliveryService.placeOrder() method ends -----
+[2014-04-27 22:22:24,820] DEBUG ----- DeliveryService.placeOrder() method begins -----
+[2014-04-27 22:22:27,044] DEBUG ----- DeliveryRequestValidation.validatePlaceOrderRequest() method begins -----
+[2014-04-27 22:22:27,854] DEBUG Invalid request parameters
+[2014-04-27 22:22:27,854] DEBUG ----- DeliveryRequestValidation.validatePlaceOrderRequest() method ends -----
+[2014-04-27 22:22:27,854] DEBUG ----- DeliveryService.placeOrder() method ends -----
+[2014-04-27 22:22:39,098] DEBUG ----- DeliveryService.placeOrder() method begins -----
+[2014-04-27 22:22:41,610] DEBUG ----- DeliveryRequestValidation.validatePlaceOrderRequest() method begins -----
+[2014-04-27 22:23:04,440] DEBUG Invalid request parameters
+[2014-04-27 22:23:04,440] DEBUG ----- DeliveryRequestValidation.validatePlaceOrderRequest() method ends -----
+[2014-04-27 22:23:04,440] DEBUG ----- DeliveryService.placeOrder() method ends -----
+[2014-04-27 22:25:11,628] DEBUG ----- DeliveryService.placeOrder() method begins -----
+[2014-04-27 22:25:14,733] DEBUG ----- DeliveryRequestValidation.validatePlaceOrderRequest() method begins -----
+[2014-04-27 22:25:24,447] DEBUG Invalid request parameters
+[2014-04-27 22:25:24,447] DEBUG ----- DeliveryRequestValidation.validatePlaceOrderRequest() method ends -----
+[2014-04-27 22:25:24,451] DEBUG ----- DeliveryService.placeOrder() method ends -----
+[2014-04-27 23:24:21,184] DEBUG ----- DeliveryService.placeOrder() method begins -----
+[2014-04-27 23:24:23,632] DEBUG ----- DeliveryRequestValidation.validatePlaceOrderRequest() method begins -----
+[2014-04-27 23:24:33,808] DEBUG ----- DeliveryRequestValidation.validatePlaceOrderRequest() method ends -----
+[2014-04-27 23:24:35,563] INFO  Property File courierportal.properties Loaded Successfully....
+[2014-04-27 23:24:36,651] DEBUG ----- DeliveryDAOImpl.insertOrderDetails() method begins -----
+[2014-04-27 23:24:36,652] INFO  BaseDAO.getConnection method ends
+[2014-04-27 23:24:37,175] INFO  Database Connection is Obtained
+[2014-04-27 23:24:37,175] INFO  BaseDAO.getConnection method begins
+[2014-04-27 23:24:37,175] DEBUG Order details insertion into database begins
+[2014-04-27 23:24:37,199] DEBUG ----- UserDAOImpl.getUserId() method ends -----
+[2014-04-27 23:24:37,199] INFO  BaseDAO.getConnection method ends
+[2014-04-27 23:24:37,248] INFO  Database Connection is Obtained
+[2014-04-27 23:24:37,248] INFO  BaseDAO.getConnection method begins
+[2014-04-27 23:24:37,271] DEBUG ----- UserDAOImpl.getUserId() method ends -----
+[2014-04-27 23:24:37,274] INFO  Database Connection is Closed...
+[2014-04-27 23:24:37,277] DEBUG ----- AddressDAOImpl.insertAddress() method begins -----
+[2014-04-27 23:24:37,277] DEBUG Address details insertion into database begins
+[2014-04-27 23:24:37,321] DEBUG Address details insertion into database completed
+[2014-04-27 23:24:37,322] DEBUG ----- AddressDAOImpl.insertAddress() method ends -----
+[2014-04-27 23:24:37,330] DEBUG ----- ContactDAOImpl.insertContact() method begins -----
+[2014-04-27 23:24:37,331] DEBUG Contact details insertion into database begins
+[2014-04-27 23:24:37,377] DEBUG Contact details insertion into database completed
+[2014-04-27 23:24:37,377] DEBUG ----- ContactDAOImpl.insertContact() method ends -----
+[2014-04-27 23:24:37,381] DEBUG ----- GoodsDAOImpl.insertGoodsDetails() method begins -----
+[2014-04-27 23:24:37,381] DEBUG Goods details insertion into database begins
+[2014-04-27 23:24:37,421] DEBUG Goods details insertion into database completed
+[2014-04-27 23:24:37,421] DEBUG ----- GoodsDAOImpl.insertGoodsDetails() method ends -----
+[2014-04-27 23:24:37,465] DEBUG Order details insertion into database completed
+[2014-04-27 23:24:37,465] DEBUG ----- DeliveryDAOImpl.insertOrderDetails() method ends -----
+[2014-04-27 23:24:37,466] INFO  Database Connection is Closed...
+[2014-04-27 23:24:42,967] DEBUG ----- DeliveryService.placeOrder() method ends -----
+[2014-04-27 23:27:17,211] DEBUG ----- DeliveryService.placeOrder() method begins -----
+[2014-04-27 23:27:19,891] DEBUG ----- DeliveryRequestValidation.validatePlaceOrderRequest() method begins -----
+[2014-04-27 23:27:20,552] DEBUG ----- DeliveryRequestValidation.validatePlaceOrderRequest() method ends -----
+[2014-04-27 23:27:20,552] DEBUG ----- DeliveryDAOImpl.insertOrderDetails() method begins -----
+[2014-04-27 23:27:20,553] INFO  BaseDAO.getConnection method ends
+[2014-04-27 23:27:20,583] INFO  Database Connection is Obtained
+[2014-04-27 23:27:20,583] INFO  BaseDAO.getConnection method begins
+[2014-04-27 23:27:20,583] DEBUG Order details insertion into database begins
+[2014-04-27 23:27:20,583] DEBUG ----- UserDAOImpl.getUserId() method ends -----
+[2014-04-27 23:27:20,583] INFO  BaseDAO.getConnection method ends
+[2014-04-27 23:27:20,599] INFO  Database Connection is Obtained
+[2014-04-27 23:27:20,599] INFO  BaseDAO.getConnection method begins
+[2014-04-27 23:27:20,600] DEBUG ----- UserDAOImpl.getUserId() method ends -----
+[2014-04-27 23:27:20,600] INFO  Database Connection is Closed...
+[2014-04-27 23:27:20,600] DEBUG ----- AddressDAOImpl.insertAddress() method begins -----
+[2014-04-27 23:27:20,600] DEBUG Address details insertion into database begins
+[2014-04-27 23:27:20,651] DEBUG Address details insertion into database completed
+[2014-04-27 23:27:20,651] DEBUG ----- AddressDAOImpl.insertAddress() method ends -----
+[2014-04-27 23:27:20,651] DEBUG ----- ContactDAOImpl.insertContact() method begins -----
+[2014-04-27 23:27:20,651] DEBUG Contact details insertion into database begins
+[2014-04-27 23:27:20,706] DEBUG Contact details insertion into database completed
+[2014-04-27 23:27:20,706] DEBUG ----- ContactDAOImpl.insertContact() method ends -----
+[2014-04-27 23:27:20,706] DEBUG ----- GoodsDAOImpl.insertGoodsDetails() method begins -----
+[2014-04-27 23:27:20,707] DEBUG Goods details insertion into database begins
+[2014-04-27 23:27:20,762] DEBUG Goods details insertion into database completed
+[2014-04-27 23:27:20,762] DEBUG ----- GoodsDAOImpl.insertGoodsDetails() method ends -----
+[2014-04-27 23:27:20,817] DEBUG Order details insertion into database completed
+[2014-04-27 23:27:20,817] DEBUG ----- DeliveryDAOImpl.insertOrderDetails() method ends -----
+[2014-04-27 23:27:20,818] INFO  Database Connection is Closed...
+[2014-04-27 23:27:20,818] DEBUG ----- DeliveryService.placeOrder() method ends -----
+[2014-04-27 23:29:49,417] DEBUG ----- DeliveryService.getDeliveryList() method begins -----
+[2014-04-27 23:29:49,418] DEBUG ----- DeliveryRequestValidation.validateDeliveryHistoryRequest() method begins -----
+[2014-04-27 23:29:49,418] DEBUG ----- DeliveryRequestValidation.validateDeliveryHistoryRequest() method ends -----
+[2014-04-27 23:29:49,418] DEBUG ----- DeliveryDAOImpl.getDeliveryList() method begins -----
+[2014-04-27 23:29:49,418] INFO  BaseDAO.getConnection method ends
+[2014-04-27 23:29:49,430] INFO  Database Connection is Obtained
+[2014-04-27 23:29:49,430] INFO  BaseDAO.getConnection method begins
+[2014-04-27 23:29:49,430] DEBUG Order list fetch begins
+[2014-04-27 23:29:49,430] DEBUG ----- UserDAOImpl.getUserDetails() method ends -----
+[2014-04-27 23:29:49,430] INFO  BaseDAO.getConnection method ends
+[2014-04-27 23:29:49,440] INFO  Database Connection is Obtained
+[2014-04-27 23:29:49,440] INFO  BaseDAO.getConnection method begins
+[2014-04-27 23:29:49,451] ERROR Error Occurred in UserDAOImpl.getUserDetails() : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'add ON usr.address_id=add.id INNER JOIN contact con ON usr.contact_id=con.id WHE' at line 1
+[2014-04-27 23:29:49,452] DEBUG ----- UserDAOImpl.getUserDetails() method ends -----
+[2014-04-27 23:29:49,452] INFO  Database Connection is Closed...
+[2014-04-27 23:29:49,452] DEBUG ----- DeliveryDAOImpl.getDeliveryList() method ends -----
+[2014-04-27 23:29:49,452] INFO  Database Connection is Closed...
+[2014-04-27 23:29:49,452] ERROR Error occured in DeliveryService.getDeliveryList() java.lang.NullPointerException
+[2014-04-27 23:29:49,452] DEBUG ----- DeliveryService.getDeliveryList() method ends -----
+[2014-04-27 23:30:42,054] DEBUG ----- DeliveryService.getDeliveryList() method begins -----
+[2014-04-27 23:30:56,725] DEBUG ----- DeliveryRequestValidation.validateDeliveryHistoryRequest() method begins -----
+[2014-04-27 23:30:56,726] DEBUG ----- DeliveryRequestValidation.validateDeliveryHistoryRequest() method ends -----
+[2014-04-27 23:31:06,806] DEBUG ----- DeliveryDAOImpl.getDeliveryList() method begins -----
+[2014-04-27 23:31:09,869] INFO  BaseDAO.getConnection method ends
+[2014-04-27 23:31:09,926] INFO  Database Connection is Obtained
+[2014-04-27 23:31:09,927] INFO  BaseDAO.getConnection method begins
+[2014-04-27 23:31:10,503] DEBUG Order list fetch begins
+[2014-04-27 23:31:11,757] DEBUG ----- UserDAOImpl.getUserDetails() method ends -----
+[2014-04-27 23:31:11,758] INFO  BaseDAO.getConnection method ends
+[2014-04-27 23:31:11,817] INFO  Database Connection is Obtained
+[2014-04-27 23:31:11,817] INFO  BaseDAO.getConnection method begins
+[2014-04-27 23:31:11,823] ERROR Error Occurred in UserDAOImpl.getUserDetails() : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'add ON usr.address_id=add.id INNER JOIN contact con ON usr.contact_id=con.id WHE' at line 1
+[2014-04-27 23:31:11,823] DEBUG ----- UserDAOImpl.getUserDetails() method ends -----
+[2014-04-27 23:31:11,823] INFO  Database Connection is Closed...
+[2014-04-27 23:32:10,095] DEBUG ----- DeliveryDAOImpl.getDeliveryList() method ends -----
+[2014-04-27 23:32:10,096] INFO  Database Connection is Closed...
+[2014-04-27 23:32:10,096] ERROR Error occured in DeliveryService.getDeliveryList() java.lang.NullPointerException
+[2014-04-27 23:32:10,096] DEBUG ----- DeliveryService.getDeliveryList() method ends -----
+[2014-04-27 23:32:13,108] DEBUG ----- DeliveryService.getDeliveryList() method begins -----
+[2014-04-27 23:32:15,136] DEBUG ----- DeliveryRequestValidation.validateDeliveryHistoryRequest() method begins -----
+[2014-04-27 23:32:15,136] DEBUG ----- DeliveryRequestValidation.validateDeliveryHistoryRequest() method ends -----
+[2014-04-27 23:32:15,137] DEBUG ----- DeliveryDAOImpl.getDeliveryList() method begins -----
+[2014-04-27 23:32:15,137] INFO  BaseDAO.getConnection method ends
+[2014-04-27 23:32:15,150] INFO  Database Connection is Obtained
+[2014-04-27 23:32:15,150] INFO  BaseDAO.getConnection method begins
+[2014-04-27 23:32:15,150] DEBUG Order list fetch begins
+[2014-04-27 23:32:15,150] DEBUG ----- UserDAOImpl.getUserDetails() method ends -----
+[2014-04-27 23:32:15,150] INFO  BaseDAO.getConnection method ends
+[2014-04-27 23:32:15,159] INFO  Database Connection is Obtained
+[2014-04-27 23:32:15,159] INFO  BaseDAO.getConnection method begins
+[2014-04-27 23:32:15,160] ERROR Error Occurred in UserDAOImpl.getUserDetails() : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'add ON usr.address_id=add.id INNER JOIN contact con ON usr.contact_id=con.id WHE' at line 1
+[2014-04-27 23:32:15,160] DEBUG ----- UserDAOImpl.getUserDetails() method ends -----
+[2014-04-27 23:32:15,160] INFO  Database Connection is Closed...
+[2014-04-27 23:32:26,603] DEBUG ----- DeliveryDAOImpl.getDeliveryList() method ends -----
+[2014-04-27 23:32:26,604] INFO  Database Connection is Closed...
+[2014-04-27 23:32:26,604] ERROR Error occured in DeliveryService.getDeliveryList() java.lang.NullPointerException
+[2014-04-27 23:32:26,604] DEBUG ----- DeliveryService.getDeliveryList() method ends -----
+[2014-04-27 23:32:30,024] DEBUG ----- DeliveryService.getDeliveryList() method begins -----
+[2014-04-27 23:32:31,779] DEBUG ----- DeliveryRequestValidation.validateDeliveryHistoryRequest() method begins -----
+[2014-04-27 23:32:31,780] DEBUG ----- DeliveryRequestValidation.validateDeliveryHistoryRequest() method ends -----
+[2014-04-27 23:32:31,781] DEBUG ----- DeliveryDAOImpl.getDeliveryList() method begins -----
+[2014-04-27 23:32:31,781] INFO  BaseDAO.getConnection method ends
+[2014-04-27 23:32:31,799] INFO  Database Connection is Obtained
+[2014-04-27 23:32:31,799] INFO  BaseDAO.getConnection method begins
+[2014-04-27 23:32:31,799] DEBUG Order list fetch begins
+[2014-04-27 23:32:31,799] DEBUG ----- UserDAOImpl.getUserDetails() method ends -----
+[2014-04-27 23:32:31,800] INFO  BaseDAO.getConnection method ends
+[2014-04-27 23:32:31,809] INFO  Database Connection is Obtained
+[2014-04-27 23:32:31,809] INFO  BaseDAO.getConnection method begins
+[2014-04-27 23:32:31,810] ERROR Error Occurred in UserDAOImpl.getUserDetails() : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'add ON usr.address_id=add.id INNER JOIN contact con ON usr.contact_id=con.id WHE' at line 1
+[2014-04-27 23:32:31,810] DEBUG ----- UserDAOImpl.getUserDetails() method ends -----
+[2014-04-27 23:32:31,810] INFO  Database Connection is Closed...
+[2014-04-27 23:32:51,323] DEBUG ----- DeliveryDAOImpl.getDeliveryList() method ends -----
+[2014-04-27 23:32:51,324] INFO  Database Connection is Closed...
+[2014-04-27 23:32:51,324] ERROR Error occured in DeliveryService.getDeliveryList() java.lang.NullPointerException
+[2014-04-27 23:32:51,324] DEBUG ----- DeliveryService.getDeliveryList() method ends -----
+[2014-04-27 23:32:53,905] DEBUG ----- DeliveryService.getDeliveryList() method begins -----
+[2014-04-27 23:32:56,452] DEBUG ----- DeliveryRequestValidation.validateDeliveryHistoryRequest() method begins -----
+[2014-04-27 23:32:56,452] DEBUG ----- DeliveryRequestValidation.validateDeliveryHistoryRequest() method ends -----
+[2014-04-27 23:32:56,453] DEBUG ----- DeliveryDAOImpl.getDeliveryList() method begins -----
+[2014-04-27 23:32:56,453] INFO  BaseDAO.getConnection method ends
+[2014-04-27 23:32:56,468] INFO  Database Connection is Obtained
+[2014-04-27 23:32:56,468] INFO  BaseDAO.getConnection method begins
+[2014-04-27 23:32:56,468] DEBUG Order list fetch begins
+[2014-04-27 23:32:59,083] DEBUG ----- UserDAOImpl.getUserDetails() method ends -----
+[2014-04-27 23:33:01,035] INFO  BaseDAO.getConnection method ends
+[2014-04-27 23:33:01,076] INFO  Database Connection is Obtained
+[2014-04-27 23:33:01,076] INFO  BaseDAO.getConnection method begins
+[2014-04-27 23:38:43,048] ERROR Error Occurred in UserDAOImpl.getUserDetails() : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'add ON usr.address_id=add.id INNER JOIN contact con ON usr.contact_id=con.id WHE' at line 1
+[2014-04-27 23:38:43,048] DEBUG ----- UserDAOImpl.getUserDetails() method ends -----
+[2014-04-27 23:39:50,849] DEBUG ----- DeliveryService.getDeliveryList() method begins -----
+[2014-04-27 23:39:53,637] INFO  Property File courierportal.properties Loaded Successfully....
+[2014-04-27 23:39:53,642] DEBUG ----- DeliveryRequestValidation.validateDeliveryHistoryRequest() method begins -----
+[2014-04-27 23:39:53,643] DEBUG ----- DeliveryRequestValidation.validateDeliveryHistoryRequest() method ends -----
+[2014-04-27 23:39:53,657] DEBUG ----- DeliveryDAOImpl.getDeliveryList() method begins -----
+[2014-04-27 23:39:53,658] INFO  BaseDAO.getConnection method ends
+[2014-04-27 23:39:53,832] INFO  Database Connection is Obtained
+[2014-04-27 23:39:53,832] INFO  BaseDAO.getConnection method begins
+[2014-04-27 23:39:53,832] DEBUG Order list fetch begins
+[2014-04-27 23:39:55,686] DEBUG ----- UserDAOImpl.getUserDetails() method ends -----
+[2014-04-27 23:39:56,976] INFO  BaseDAO.getConnection method ends
+[2014-04-27 23:39:57,016] INFO  Database Connection is Obtained
+[2014-04-27 23:39:57,016] INFO  BaseDAO.getConnection method begins
+[2014-04-27 23:40:02,516] ERROR Error Occurred in UserDAOImpl.getUserDetails() : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'add ON usr.address_id=add.id INNER JOIN contact con ON usr.contact_id=con.id WHE' at line 1
+[2014-04-27 23:40:04,588] DEBUG ----- UserDAOImpl.getUserDetails() method ends -----
+[2014-04-27 23:40:04,593] INFO  Database Connection is Closed...
+[2014-04-27 23:42:43,175] DEBUG ----- DeliveryDAOImpl.getDeliveryList() method ends -----
+[2014-04-27 23:42:43,175] INFO  Database Connection is Closed...
+[2014-04-27 23:45:19,717] DEBUG ----- DeliveryService.getDeliveryList() method begins -----
+[2014-04-27 23:45:22,062] INFO  Property File courierportal.properties Loaded Successfully....
+[2014-04-27 23:45:22,077] DEBUG ----- DeliveryRequestValidation.validateDeliveryHistoryRequest() method begins -----
+[2014-04-27 23:45:22,079] DEBUG ----- DeliveryRequestValidation.validateDeliveryHistoryRequest() method ends -----
+[2014-04-27 23:45:22,094] DEBUG ----- DeliveryDAOImpl.getDeliveryList() method begins -----
+[2014-04-27 23:45:22,094] INFO  BaseDAO.getConnection method ends
+[2014-04-27 23:45:22,268] INFO  Database Connection is Obtained
+[2014-04-27 23:45:22,269] INFO  BaseDAO.getConnection method begins
+[2014-04-27 23:45:22,269] DEBUG Order list fetch begins
+[2014-04-27 23:45:24,887] DEBUG ----- UserDAOImpl.getUserDetails() method ends -----
+[2014-04-27 23:45:26,568] INFO  BaseDAO.getConnection method ends
+[2014-04-27 23:45:26,605] INFO  Database Connection is Obtained
+[2014-04-27 23:45:26,605] INFO  BaseDAO.getConnection method begins
+[2014-04-27 23:46:13,142] DEBUG ----- UserDAOImpl.getUserDetails() method ends -----
+[2014-04-27 23:46:20,736] INFO  Database Connection is Closed...
+[2014-04-28 00:08:31,461] DEBUG ----- DeliveryService.getDeliveryList() method begins -----
+[2014-04-28 00:08:34,741] INFO  Property File courierportal.properties Loaded Successfully....
+[2014-04-28 00:08:34,754] DEBUG ----- DeliveryRequestValidation.validateDeliveryHistoryRequest() method begins -----
+[2014-04-28 00:08:34,755] DEBUG ----- DeliveryRequestValidation.validateDeliveryHistoryRequest() method ends -----
+[2014-04-28 00:08:34,779] DEBUG ----- DeliveryDAOImpl.getDeliveryList() method begins -----
+[2014-04-28 00:08:34,779] INFO  BaseDAO.getConnection method ends
+[2014-04-28 00:08:34,956] INFO  Database Connection is Obtained
+[2014-04-28 00:08:34,956] INFO  BaseDAO.getConnection method begins
+[2014-04-28 00:08:34,956] DEBUG Order list fetch begins
+[2014-04-28 00:08:38,612] DEBUG ----- UserDAOImpl.getUserDetails() method ends -----
+[2014-04-28 00:08:38,613] INFO  BaseDAO.getConnection method ends
+[2014-04-28 00:08:38,659] INFO  Database Connection is Obtained
+[2014-04-28 00:08:38,659] INFO  BaseDAO.getConnection method begins
+[2014-04-28 00:08:38,693] DEBUG ----- UserDAOImpl.getUserDetails() method ends -----
+[2014-04-28 00:08:38,696] INFO  Database Connection is Closed...
+[2014-04-28 00:08:47,354] DEBUG ----- DeliveryDAOImpl.getDeliveryList() method ends -----
+[2014-04-28 00:08:47,355] INFO  Database Connection is Closed...
+[2014-04-28 00:08:47,355] DEBUG ----- DeliveryService.getDeliveryList() method ends -----
+[2014-04-28 00:18:45,698] DEBUG ----- DeliveryService.getDeliveryList() method begins -----
+[2014-04-28 00:18:53,379] INFO  Property File courierportal.properties Loaded Successfully....
+[2014-04-28 00:18:53,404] DEBUG ----- DeliveryRequestValidation.validateDeliveryHistoryRequest() method begins -----
+[2014-04-28 00:18:53,408] DEBUG ----- DeliveryRequestValidation.validateDeliveryHistoryRequest() method ends -----
+[2014-04-28 00:18:53,467] DEBUG ----- DeliveryDAOImpl.getDeliveryList() method begins -----
+[2014-04-28 00:18:53,468] INFO  BaseDAO.getConnection method ends
+[2014-04-28 00:18:53,806] INFO  Database Connection is Obtained
+[2014-04-28 00:18:53,806] INFO  BaseDAO.getConnection method begins
+[2014-04-28 00:18:53,806] DEBUG Order list fetch begins
+[2014-04-28 00:18:55,154] DEBUG ----- UserDAOImpl.getUserDetails() method ends -----
+[2014-04-28 00:18:55,154] INFO  BaseDAO.getConnection method ends
+[2014-04-28 00:18:55,221] INFO  Database Connection is Obtained
+[2014-04-28 00:18:55,221] INFO  BaseDAO.getConnection method begins
+[2014-04-28 00:18:55,373] DEBUG ----- UserDAOImpl.getUserDetails() method ends -----
+[2014-04-28 00:18:55,378] INFO  Database Connection is Closed...
+[2014-04-28 00:19:00,136] DEBUG ----- DeliveryDAOImpl.getDeliveryList() method ends -----
+[2014-04-28 00:19:00,137] INFO  Database Connection is Closed...
+[2014-04-28 00:19:00,137] DEBUG ----- DeliveryService.getDeliveryList() method ends -----
+[2014-04-28 00:37:26,409] DEBUG ----- DeliveryService.getDeliveryList() method begins -----
+[2014-04-28 00:37:29,818] INFO  Property File courierportal.properties Loaded Successfully....
+[2014-04-28 00:37:29,838] DEBUG ----- DeliveryRequestValidation.validateDeliveryHistoryRequest() method begins -----
+[2014-04-28 00:37:29,840] DEBUG ----- DeliveryRequestValidation.validateDeliveryHistoryRequest() method ends -----
+[2014-04-28 00:37:29,888] DEBUG ----- DeliveryDAOImpl.getDeliveryList() method begins -----
+[2014-04-28 00:37:29,889] INFO  BaseDAO.getConnection method ends
+[2014-04-28 00:37:30,144] INFO  Database Connection is Obtained
+[2014-04-28 00:37:30,144] INFO  BaseDAO.getConnection method begins
+[2014-04-28 00:37:30,145] DEBUG Order list fetch begins
+[2014-04-28 00:37:30,759] DEBUG ----- UserDAOImpl.getUserDetails() method ends -----
+[2014-04-28 00:37:30,759] INFO  BaseDAO.getConnection method ends
+[2014-04-28 00:37:30,802] INFO  Database Connection is Obtained
+[2014-04-28 00:37:30,802] INFO  BaseDAO.getConnection method begins
+[2014-04-28 00:37:30,851] DEBUG ----- UserDAOImpl.getUserDetails() method ends -----
+[2014-04-28 00:37:30,855] INFO  Database Connection is Closed...
+[2014-04-28 00:37:32,558] DEBUG ----- DeliveryDAOImpl.getDeliveryList() method ends -----
+[2014-04-28 00:37:32,559] INFO  Database Connection is Closed...
+[2014-04-28 00:37:32,559] DEBUG ----- DeliveryService.getDeliveryList() method ends -----
+[2014-04-28 00:44:25,320] DEBUG ----- DeliveryService.getDeliveryList() method begins -----
+[2014-04-28 00:44:28,216] INFO  Property File courierportal.properties Loaded Successfully....
+[2014-04-28 00:44:28,232] DEBUG ----- DeliveryRequestValidation.validateDeliveryHistoryRequest() method begins -----
+[2014-04-28 00:44:28,235] DEBUG ----- DeliveryRequestValidation.validateDeliveryHistoryRequest() method ends -----
+[2014-04-28 00:44:28,274] DEBUG ----- DeliveryDAOImpl.getDeliveryList() method begins -----
+[2014-04-28 00:44:28,275] INFO  BaseDAO.getConnection method ends
+[2014-04-28 00:44:28,563] INFO  Database Connection is Obtained
+[2014-04-28 00:44:28,563] INFO  BaseDAO.getConnection method begins
+[2014-04-28 00:44:28,563] DEBUG Order list fetch begins
+[2014-04-28 00:44:29,193] DEBUG ----- UserDAOImpl.getUserDetails() method ends -----
+[2014-04-28 00:44:29,194] INFO  BaseDAO.getConnection method ends
+[2014-04-28 00:44:29,230] INFO  Database Connection is Obtained
+[2014-04-28 00:44:29,230] INFO  BaseDAO.getConnection method begins
+[2014-04-28 00:44:29,276] DEBUG ----- UserDAOImpl.getUserDetails() method ends -----
+[2014-04-28 00:44:29,278] INFO  Database Connection is Closed...
+[2014-04-28 00:44:30,497] DEBUG ----- DeliveryDAOImpl.getDeliveryList() method ends -----
+[2014-04-28 00:44:30,498] INFO  Database Connection is Closed...
+[2014-04-28 00:44:30,499] DEBUG ----- DeliveryService.getDeliveryList() method ends -----
+[2014-04-28 00:51:32,676] DEBUG ----- DeliveryService.getDeliveryList() method begins -----
+[2014-04-28 00:51:35,551] INFO  Property File courierportal.properties Loaded Successfully....
+[2014-04-28 00:51:35,568] DEBUG ----- DeliveryRequestValidation.validateDeliveryHistoryRequest() method begins -----
+[2014-04-28 00:51:35,571] DEBUG ----- DeliveryRequestValidation.validateDeliveryHistoryRequest() method ends -----
+[2014-04-28 00:51:35,613] DEBUG ----- DeliveryDAOImpl.getDeliveryList() method begins -----
+[2014-04-28 00:51:35,614] INFO  BaseDAO.getConnection method ends
+[2014-04-28 00:51:35,907] INFO  Database Connection is Obtained
+[2014-04-28 00:51:35,907] INFO  BaseDAO.getConnection method begins
+[2014-04-28 00:51:35,907] DEBUG Order list fetch begins
+[2014-04-28 00:51:36,743] DEBUG ----- UserDAOImpl.getUserDetails() method ends -----
+[2014-04-28 00:51:36,744] INFO  BaseDAO.getConnection method ends
+[2014-04-28 00:51:36,788] INFO  Database Connection is Obtained
+[2014-04-28 00:51:36,788] INFO  BaseDAO.getConnection method begins
+[2014-04-28 00:51:36,837] DEBUG ----- UserDAOImpl.getUserDetails() method ends -----
+[2014-04-28 00:51:36,840] INFO  Database Connection is Closed...
+[2014-04-28 00:51:38,415] DEBUG ----- DeliveryDAOImpl.getDeliveryList() method ends -----
+[2014-04-28 00:51:38,416] INFO  Database Connection is Closed...
+[2014-04-28 00:51:38,416] DEBUG ----- DeliveryService.getDeliveryList() method ends -----
+[2014-04-28 00:53:33,378] DEBUG ----- DeliveryService.getDeliveryList() method begins -----
+[2014-04-28 00:53:36,331] DEBUG ----- DeliveryRequestValidation.validateDeliveryHistoryRequest() method begins -----
+[2014-04-28 00:53:36,332] DEBUG ----- DeliveryRequestValidation.validateDeliveryHistoryRequest() method ends -----
+[2014-04-28 00:53:36,332] DEBUG ----- DeliveryDAOImpl.getDeliveryList() method begins -----
+[2014-04-28 00:53:36,333] INFO  BaseDAO.getConnection method ends
+[2014-04-28 00:53:36,374] INFO  Database Connection is Obtained
+[2014-04-28 00:53:36,375] INFO  BaseDAO.getConnection method begins
+[2014-04-28 00:53:36,375] DEBUG Order list fetch begins
+[2014-04-28 00:53:37,013] DEBUG ----- UserDAOImpl.getUserDetails() method ends -----
+[2014-04-28 00:53:37,014] INFO  BaseDAO.getConnection method ends
+[2014-04-28 00:53:37,063] INFO  Database Connection is Obtained
+[2014-04-28 00:53:37,064] INFO  BaseDAO.getConnection method begins
+[2014-04-28 00:53:37,067] DEBUG ----- UserDAOImpl.getUserDetails() method ends -----
+[2014-04-28 00:53:37,067] INFO  Database Connection is Closed...
+[2014-04-28 00:53:37,947] DEBUG ----- DeliveryDAOImpl.getDeliveryList() method ends -----
+[2014-04-28 00:53:37,947] INFO  Database Connection is Closed...
+[2014-04-28 00:53:37,947] DEBUG ----- DeliveryService.getDeliveryList() method ends -----
+[2014-04-28 00:55:57,895] DEBUG ----- AdminService.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 00:55:57,896] DEBUG ----- AdminRequestValidation.validateHistoryRequest() method begins -----
+[2014-04-28 00:55:57,896] DEBUG ----- AdminRequestValidation.validateHistoryRequest() method ends -----
+[2014-04-28 00:55:57,903] DEBUG ----- AdminServiceHelper.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 00:55:57,905] DEBUG ----- DeliveryDAOImpl.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 00:55:57,905] INFO  BaseDAO.getConnection method ends
+[2014-04-28 00:55:57,933] INFO  Database Connection is Obtained
+[2014-04-28 00:55:57,933] INFO  BaseDAO.getConnection method begins
+[2014-04-28 00:55:57,933] DEBUG Order history fetch begins
+[2014-04-28 00:55:57,965] ERROR Error Occurred in DeliveryDAOImpl.getDeliveryHistoryByPeriod() : Not unique table/alias: 'order_details'
+[2014-04-28 00:55:57,965] DEBUG ----- DeliveryDAOImpl.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 00:55:57,965] INFO  Database Connection is Closed...
+[2014-04-28 00:55:57,965] DEBUG ----- AdminServiceHelper.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 00:55:57,965] DEBUG ----- AdminService.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 00:56:53,601] DEBUG ----- AdminService.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 00:56:54,845] DEBUG ----- AdminRequestValidation.validateHistoryRequest() method begins -----
+[2014-04-28 00:56:54,846] DEBUG ----- AdminRequestValidation.validateHistoryRequest() method ends -----
+[2014-04-28 00:56:58,092] DEBUG ----- AdminServiceHelper.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 00:57:20,221] DEBUG ----- DeliveryDAOImpl.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 00:57:22,749] INFO  BaseDAO.getConnection method ends
+[2014-04-28 00:57:22,793] INFO  Database Connection is Obtained
+[2014-04-28 00:57:22,794] INFO  BaseDAO.getConnection method begins
+[2014-04-28 00:57:23,907] DEBUG Order history fetch begins
+[2014-04-28 01:00:07,504] DEBUG ----- AdminService.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 01:00:07,511] INFO  Property File courierportal.properties Loaded Successfully....
+[2014-04-28 01:00:07,511] DEBUG ----- AdminRequestValidation.validateHistoryRequest() method begins -----
+[2014-04-28 01:00:07,515] DEBUG ----- AdminRequestValidation.validateHistoryRequest() method ends -----
+[2014-04-28 01:00:07,519] DEBUG ----- AdminServiceHelper.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 01:00:07,576] DEBUG ----- DeliveryDAOImpl.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 01:00:07,577] INFO  BaseDAO.getConnection method ends
+[2014-04-28 01:00:07,865] INFO  Database Connection is Obtained
+[2014-04-28 01:00:07,865] INFO  BaseDAO.getConnection method begins
+[2014-04-28 01:00:07,865] DEBUG Order history fetch begins
+[2014-04-28 01:00:07,934] ERROR Error Occurred in DeliveryDAOImpl.getDeliveryHistoryByPeriod() : Not unique table/alias: 'order_details'
+[2014-04-28 01:00:07,934] DEBUG ----- DeliveryDAOImpl.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 01:00:07,940] INFO  Database Connection is Closed...
+[2014-04-28 01:00:07,940] DEBUG ----- AdminServiceHelper.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 01:00:07,941] DEBUG ----- AdminService.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 01:00:15,835] DEBUG ----- AdminService.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 01:00:16,806] DEBUG ----- AdminRequestValidation.validateHistoryRequest() method begins -----
+[2014-04-28 01:00:16,806] DEBUG ----- AdminRequestValidation.validateHistoryRequest() method ends -----
+[2014-04-28 01:00:19,028] DEBUG ----- AdminServiceHelper.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 01:00:24,801] DEBUG ----- DeliveryDAOImpl.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 01:00:26,561] INFO  BaseDAO.getConnection method ends
+[2014-04-28 01:00:26,681] INFO  Database Connection is Obtained
+[2014-04-28 01:00:26,681] INFO  BaseDAO.getConnection method begins
+[2014-04-28 01:00:27,724] DEBUG Order history fetch begins
+[2014-04-28 01:06:27,161] ERROR Error Occurred in DeliveryDAOImpl.getDeliveryHistoryByPeriod() : Not unique table/alias: 'order_details'
+[2014-04-28 01:06:27,161] DEBUG ----- DeliveryDAOImpl.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 01:06:27,162] INFO  Database Connection is Closed...
+[2014-04-28 01:06:27,162] DEBUG ----- AdminServiceHelper.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 01:06:27,163] DEBUG ----- AdminService.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 01:09:20,558] DEBUG ----- AdminService.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 01:09:20,566] INFO  Property File courierportal.properties Loaded Successfully....
+[2014-04-28 01:09:20,567] DEBUG ----- AdminRequestValidation.validateHistoryRequest() method begins -----
+[2014-04-28 01:09:20,569] DEBUG ----- AdminRequestValidation.validateHistoryRequest() method ends -----
+[2014-04-28 01:09:20,573] DEBUG ----- AdminServiceHelper.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 01:09:20,623] DEBUG ----- DeliveryDAOImpl.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 01:09:20,623] INFO  BaseDAO.getConnection method ends
+[2014-04-28 01:09:20,917] INFO  Database Connection is Obtained
+[2014-04-28 01:09:20,917] INFO  BaseDAO.getConnection method begins
+[2014-04-28 01:09:20,917] DEBUG Order history fetch begins
+[2014-04-28 01:09:20,958] DEBUG ----- DeliveryDAOImpl.constructResponseList() method begins -----
+[2014-04-28 01:09:20,961] DEBUG No relevant record found in database
+[2014-04-28 01:09:20,961] DEBUG ----- DeliveryDAOImpl.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 01:09:20,964] INFO  Database Connection is Closed...
+[2014-04-28 01:09:20,964] DEBUG ----- AdminServiceHelper.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 01:09:20,964] DEBUG ----- AdminService.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 01:09:30,902] DEBUG ----- AdminService.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 01:09:31,920] DEBUG ----- AdminRequestValidation.validateHistoryRequest() method begins -----
+[2014-04-28 01:09:31,922] DEBUG ----- AdminRequestValidation.validateHistoryRequest() method ends -----
+[2014-04-28 01:09:34,408] DEBUG ----- AdminServiceHelper.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 01:09:40,026] DEBUG ----- DeliveryDAOImpl.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 01:09:42,778] INFO  BaseDAO.getConnection method ends
+[2014-04-28 01:09:42,896] INFO  Database Connection is Obtained
+[2014-04-28 01:09:42,896] INFO  BaseDAO.getConnection method begins
+[2014-04-28 01:09:44,041] DEBUG Order history fetch begins
+[2014-04-28 01:11:51,327] DEBUG ----- DeliveryDAOImpl.constructResponseList() method begins -----
+[2014-04-28 01:11:51,329] DEBUG No relevant record found in database
+[2014-04-28 01:11:51,329] DEBUG ----- DeliveryDAOImpl.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 01:11:51,330] INFO  Database Connection is Closed...
+[2014-04-28 01:11:51,330] DEBUG ----- AdminServiceHelper.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 01:11:51,330] DEBUG ----- AdminService.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 01:17:23,775] DEBUG ----- AdminService.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 01:17:23,783] INFO  Property File courierportal.properties Loaded Successfully....
+[2014-04-28 01:17:23,783] DEBUG ----- AdminRequestValidation.validateHistoryRequest() method begins -----
+[2014-04-28 01:17:23,787] DEBUG ----- AdminRequestValidation.validateHistoryRequest() method ends -----
+[2014-04-28 01:17:23,792] DEBUG ----- AdminServiceHelper.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 01:17:23,838] DEBUG ----- DeliveryDAOImpl.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 01:17:23,838] INFO  BaseDAO.getConnection method ends
+[2014-04-28 01:17:24,118] INFO  Database Connection is Obtained
+[2014-04-28 01:17:24,119] INFO  BaseDAO.getConnection method begins
+[2014-04-28 01:17:24,119] DEBUG Order history fetch begins
+[2014-04-28 01:17:24,159] DEBUG ----- DeliveryDAOImpl.constructResponseList() method begins -----
+[2014-04-28 01:17:24,162] DEBUG No relevant record found in database
+[2014-04-28 01:17:24,162] DEBUG ----- DeliveryDAOImpl.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 01:17:24,165] INFO  Database Connection is Closed...
+[2014-04-28 01:17:24,165] DEBUG ----- AdminServiceHelper.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 01:17:24,165] DEBUG ----- AdminService.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 01:17:40,163] DEBUG ----- AdminService.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 01:17:40,164] DEBUG ----- AdminRequestValidation.validateHistoryRequest() method begins -----
+[2014-04-28 01:17:40,165] DEBUG ----- AdminRequestValidation.validateHistoryRequest() method ends -----
+[2014-04-28 01:17:40,165] DEBUG ----- AdminServiceHelper.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 01:17:40,166] DEBUG ----- DeliveryDAOImpl.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 01:17:40,166] INFO  BaseDAO.getConnection method ends
+[2014-04-28 01:17:40,202] INFO  Database Connection is Obtained
+[2014-04-28 01:17:40,202] INFO  BaseDAO.getConnection method begins
+[2014-04-28 01:17:40,202] DEBUG Order history fetch begins
+[2014-04-28 01:17:40,205] DEBUG ----- DeliveryDAOImpl.constructResponseList() method begins -----
+[2014-04-28 01:17:40,206] DEBUG No relevant record found in database
+[2014-04-28 01:17:40,206] DEBUG ----- DeliveryDAOImpl.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 01:17:40,206] INFO  Database Connection is Closed...
+[2014-04-28 01:17:40,207] DEBUG ----- AdminServiceHelper.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 01:17:48,882] DEBUG ----- AdminService.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 01:18:08,803] DEBUG ----- AdminService.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 01:18:08,804] DEBUG ----- AdminRequestValidation.validateHistoryRequest() method begins -----
+[2014-04-28 01:18:08,804] DEBUG ----- AdminRequestValidation.validateHistoryRequest() method ends -----
+[2014-04-28 01:18:08,804] DEBUG ----- AdminServiceHelper.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 01:18:08,805] DEBUG ----- DeliveryDAOImpl.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 01:18:08,805] INFO  BaseDAO.getConnection method ends
+[2014-04-28 01:18:08,841] INFO  Database Connection is Obtained
+[2014-04-28 01:18:08,841] INFO  BaseDAO.getConnection method begins
+[2014-04-28 01:18:08,841] DEBUG Order history fetch begins
+[2014-04-28 01:18:08,846] DEBUG ----- DeliveryDAOImpl.constructResponseList() method begins -----
+[2014-04-28 01:18:08,846] DEBUG No relevant record found in database
+[2014-04-28 01:18:08,846] DEBUG ----- DeliveryDAOImpl.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 01:18:08,847] INFO  Database Connection is Closed...
+[2014-04-28 01:18:08,847] DEBUG ----- AdminServiceHelper.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 01:18:09,104] DEBUG ----- AdminService.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 01:19:50,255] DEBUG ----- AdminService.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 01:19:50,266] INFO  Property File courierportal.properties Loaded Successfully....
+[2014-04-28 01:19:50,267] DEBUG ----- AdminRequestValidation.validateHistoryRequest() method begins -----
+[2014-04-28 01:19:50,271] DEBUG ----- AdminRequestValidation.validateHistoryRequest() method ends -----
+[2014-04-28 01:19:50,273] DEBUG ----- AdminServiceHelper.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 01:19:50,323] DEBUG ----- DeliveryDAOImpl.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 01:19:50,323] INFO  BaseDAO.getConnection method ends
+[2014-04-28 01:19:50,903] INFO  Database Connection is Obtained
+[2014-04-28 01:19:50,903] INFO  BaseDAO.getConnection method begins
+[2014-04-28 01:19:50,903] DEBUG Order history fetch begins
+[2014-04-28 01:19:50,943] DEBUG ----- DeliveryDAOImpl.constructResponseList() method begins -----
+[2014-04-28 01:19:50,946] DEBUG No relevant record found in database
+[2014-04-28 01:19:50,946] DEBUG ----- DeliveryDAOImpl.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 01:19:50,949] INFO  Database Connection is Closed...
+[2014-04-28 01:19:50,949] DEBUG ----- AdminServiceHelper.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 01:19:52,422] DEBUG ----- AdminService.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 01:20:04,284] DEBUG ----- AdminService.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 01:20:04,285] DEBUG ----- AdminRequestValidation.validateHistoryRequest() method begins -----
+[2014-04-28 01:20:04,286] DEBUG ----- AdminRequestValidation.validateHistoryRequest() method ends -----
+[2014-04-28 01:20:04,286] DEBUG ----- AdminServiceHelper.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 01:20:04,287] DEBUG ----- DeliveryDAOImpl.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 01:20:04,288] INFO  BaseDAO.getConnection method ends
+[2014-04-28 01:20:04,328] INFO  Database Connection is Obtained
+[2014-04-28 01:20:04,328] INFO  BaseDAO.getConnection method begins
+[2014-04-28 01:20:04,328] DEBUG Order history fetch begins
+[2014-04-28 01:20:04,330] DEBUG ----- DeliveryDAOImpl.constructResponseList() method begins -----
+[2014-04-28 01:20:04,331] DEBUG No relevant record found in database
+[2014-04-28 01:20:04,331] DEBUG ----- DeliveryDAOImpl.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 01:20:04,331] INFO  Database Connection is Closed...
+[2014-04-28 01:20:04,331] DEBUG ----- AdminServiceHelper.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 01:20:09,704] DEBUG ----- AdminService.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 01:20:16,586] DEBUG ----- AdminService.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 01:20:17,712] DEBUG ----- AdminRequestValidation.validateHistoryRequest() method begins -----
+[2014-04-28 01:20:17,714] DEBUG ----- AdminRequestValidation.validateHistoryRequest() method ends -----
+[2014-04-28 01:20:20,663] DEBUG ----- AdminServiceHelper.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 01:20:42,206] DEBUG ----- DeliveryDAOImpl.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 01:20:43,583] INFO  BaseDAO.getConnection method ends
+[2014-04-28 01:20:43,627] INFO  Database Connection is Obtained
+[2014-04-28 01:20:43,627] INFO  BaseDAO.getConnection method begins
+[2014-04-28 01:20:43,935] DEBUG Order history fetch begins
+[2014-04-28 01:22:06,684] DEBUG ----- DeliveryDAOImpl.constructResponseList() method begins -----
+[2014-04-28 01:22:06,684] DEBUG No relevant record found in database
+[2014-04-28 01:22:06,684] DEBUG ----- DeliveryDAOImpl.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 01:22:06,684] INFO  Database Connection is Closed...
+[2014-04-28 01:22:06,684] DEBUG ----- AdminServiceHelper.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 01:22:06,684] DEBUG ----- AdminService.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 01:23:05,748] DEBUG ----- AdminService.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 01:23:05,753] INFO  Property File courierportal.properties Loaded Successfully....
+[2014-04-28 01:23:05,753] DEBUG ----- AdminRequestValidation.validateHistoryRequest() method begins -----
+[2014-04-28 01:23:05,756] DEBUG ----- AdminRequestValidation.validateHistoryRequest() method ends -----
+[2014-04-28 01:23:05,760] DEBUG ----- AdminServiceHelper.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 01:23:05,805] DEBUG ----- DeliveryDAOImpl.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 01:23:05,805] INFO  BaseDAO.getConnection method ends
+[2014-04-28 01:23:06,155] INFO  Database Connection is Obtained
+[2014-04-28 01:23:06,155] INFO  BaseDAO.getConnection method begins
+[2014-04-28 01:23:06,155] DEBUG Order history fetch begins
+[2014-04-28 01:23:06,198] DEBUG ----- DeliveryDAOImpl.constructResponseList() method begins -----
+[2014-04-28 01:23:06,244] DEBUG ----- UserDAOImpl.getUserDetails() method ends -----
+[2014-04-28 01:23:06,244] INFO  BaseDAO.getConnection method ends
+[2014-04-28 01:23:06,282] INFO  Database Connection is Obtained
+[2014-04-28 01:23:06,283] INFO  BaseDAO.getConnection method begins
+[2014-04-28 01:23:06,286] DEBUG ----- UserDAOImpl.getUserDetails() method ends -----
+[2014-04-28 01:23:06,289] INFO  Database Connection is Closed...
+[2014-04-28 01:23:06,290] DEBUG ----- UserDAOImpl.getUserDetails() method ends -----
+[2014-04-28 01:23:06,290] INFO  BaseDAO.getConnection method ends
+[2014-04-28 01:23:06,325] INFO  Database Connection is Obtained
+[2014-04-28 01:23:06,325] INFO  BaseDAO.getConnection method begins
+[2014-04-28 01:23:06,328] DEBUG ----- UserDAOImpl.getUserDetails() method ends -----
+[2014-04-28 01:23:06,329] INFO  Database Connection is Closed...
+[2014-04-28 01:23:06,329] DEBUG ----- DeliveryDAOImpl.constructResponseList() method ends -----
+[2014-04-28 01:23:06,329] DEBUG ----- DeliveryDAOImpl.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 01:23:06,329] INFO  Database Connection is Closed...
+[2014-04-28 01:23:06,330] DEBUG ----- AdminServiceHelper.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 01:23:11,259] DEBUG ----- AdminService.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 01:23:52,987] DEBUG ----- AdminService.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 01:23:52,989] DEBUG ----- AdminRequestValidation.validateHistoryRequest() method begins -----
+[2014-04-28 01:23:52,989] DEBUG ----- AdminRequestValidation.validateHistoryRequest() method ends -----
+[2014-04-28 01:23:52,989] DEBUG ----- AdminServiceHelper.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 01:23:52,990] DEBUG ----- DeliveryDAOImpl.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 01:23:52,991] INFO  BaseDAO.getConnection method ends
+[2014-04-28 01:23:53,040] INFO  Database Connection is Obtained
+[2014-04-28 01:23:53,040] INFO  BaseDAO.getConnection method begins
+[2014-04-28 01:23:53,040] DEBUG Order history fetch begins
+[2014-04-28 01:23:53,045] DEBUG ----- DeliveryDAOImpl.constructResponseList() method begins -----
+[2014-04-28 01:23:53,048] DEBUG ----- UserDAOImpl.getUserDetails() method ends -----
+[2014-04-28 01:23:53,048] INFO  BaseDAO.getConnection method ends
+[2014-04-28 01:23:53,074] INFO  Database Connection is Obtained
+[2014-04-28 01:23:53,074] INFO  BaseDAO.getConnection method begins
+[2014-04-28 01:23:53,075] DEBUG ----- UserDAOImpl.getUserDetails() method ends -----
+[2014-04-28 01:23:53,075] INFO  Database Connection is Closed...
+[2014-04-28 01:23:53,075] DEBUG ----- DeliveryDAOImpl.constructResponseList() method ends -----
+[2014-04-28 01:23:53,075] DEBUG ----- DeliveryDAOImpl.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 01:23:53,076] INFO  Database Connection is Closed...
+[2014-04-28 01:23:53,076] DEBUG ----- AdminServiceHelper.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 01:23:53,581] DEBUG ----- AdminService.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 01:25:06,911] DEBUG ----- AdminService.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 01:25:06,911] DEBUG ----- AdminRequestValidation.validateHistoryRequest() method begins -----
+[2014-04-28 01:25:06,911] DEBUG ----- AdminRequestValidation.validateHistoryRequest() method ends -----
+[2014-04-28 01:25:06,911] DEBUG ----- AdminServiceHelper.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 01:25:06,912] DEBUG ----- DeliveryDAOImpl.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 01:25:06,912] INFO  BaseDAO.getConnection method ends
+[2014-04-28 01:25:06,960] INFO  Database Connection is Obtained
+[2014-04-28 01:25:06,960] INFO  BaseDAO.getConnection method begins
+[2014-04-28 01:25:06,960] DEBUG Order history fetch begins
+[2014-04-28 01:25:06,967] DEBUG ----- DeliveryDAOImpl.constructResponseList() method begins -----
+[2014-04-28 01:25:06,968] DEBUG No relevant record found in database
+[2014-04-28 01:25:06,968] DEBUG ----- DeliveryDAOImpl.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 01:25:06,969] INFO  Database Connection is Closed...
+[2014-04-28 01:25:06,969] DEBUG ----- AdminServiceHelper.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 01:25:07,110] DEBUG ----- AdminService.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 01:32:05,820] DEBUG ----- DeliveryService.placeOrder() method begins -----
+[2014-04-28 01:32:08,135] DEBUG ----- DeliveryRequestValidation.validatePlaceOrderRequest() method begins -----
+[2014-04-28 01:32:08,742] DEBUG ----- DeliveryRequestValidation.validatePlaceOrderRequest() method ends -----
+[2014-04-28 01:32:08,742] DEBUG ----- DeliveryDAOImpl.insertOrderDetails() method begins -----
+[2014-04-28 01:32:08,742] INFO  BaseDAO.getConnection method ends
+[2014-04-28 01:32:08,780] INFO  Database Connection is Obtained
+[2014-04-28 01:32:08,780] INFO  BaseDAO.getConnection method begins
+[2014-04-28 01:32:08,781] DEBUG Order details insertion into database begins
+[2014-04-28 01:32:08,781] DEBUG ----- UserDAOImpl.getUserId() method ends -----
+[2014-04-28 01:32:08,781] INFO  BaseDAO.getConnection method ends
+[2014-04-28 01:32:08,825] INFO  Database Connection is Obtained
+[2014-04-28 01:32:08,826] INFO  BaseDAO.getConnection method begins
+[2014-04-28 01:32:08,827] DEBUG ----- UserDAOImpl.getUserId() method ends -----
+[2014-04-28 01:32:08,828] INFO  Database Connection is Closed...
+[2014-04-28 01:32:08,833] DEBUG ----- AddressDAOImpl.insertAddress() method begins -----
+[2014-04-28 01:32:08,833] DEBUG Address details insertion into database begins
+[2014-04-28 01:32:08,917] DEBUG Address details insertion into database completed
+[2014-04-28 01:32:08,917] DEBUG ----- AddressDAOImpl.insertAddress() method ends -----
+[2014-04-28 01:32:08,918] DEBUG ----- ContactDAOImpl.insertContact() method begins -----
+[2014-04-28 01:32:08,918] DEBUG Contact details insertion into database begins
+[2014-04-28 01:32:08,972] DEBUG Contact details insertion into database completed
+[2014-04-28 01:32:08,972] DEBUG ----- ContactDAOImpl.insertContact() method ends -----
+[2014-04-28 01:32:08,973] DEBUG ----- GoodsDAOImpl.insertGoodsDetails() method begins -----
+[2014-04-28 01:32:08,973] DEBUG Goods details insertion into database begins
+[2014-04-28 01:32:09,028] DEBUG Goods details insertion into database completed
+[2014-04-28 01:32:09,029] DEBUG ----- GoodsDAOImpl.insertGoodsDetails() method ends -----
+[2014-04-28 01:32:09,084] DEBUG Order details insertion into database completed
+[2014-04-28 01:32:09,084] DEBUG ----- DeliveryDAOImpl.insertOrderDetails() method ends -----
+[2014-04-28 01:32:09,084] INFO  Database Connection is Closed...
+[2014-04-28 01:32:09,084] DEBUG ----- DeliveryService.placeOrder() method ends -----
+[2014-04-28 01:32:35,791] DEBUG ----- AdminService.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 01:32:35,791] DEBUG ----- AdminRequestValidation.validateHistoryRequest() method begins -----
+[2014-04-28 01:32:35,791] DEBUG ----- AdminRequestValidation.validateHistoryRequest() method ends -----
+[2014-04-28 01:32:35,791] DEBUG ----- AdminServiceHelper.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 01:32:35,792] DEBUG ----- DeliveryDAOImpl.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 01:32:35,792] INFO  BaseDAO.getConnection method ends
+[2014-04-28 01:32:35,819] INFO  Database Connection is Obtained
+[2014-04-28 01:32:35,819] INFO  BaseDAO.getConnection method begins
+[2014-04-28 01:32:35,819] DEBUG Order history fetch begins
+[2014-04-28 01:32:35,826] DEBUG ----- DeliveryDAOImpl.constructResponseList() method begins -----
+[2014-04-28 01:32:35,828] DEBUG ----- UserDAOImpl.getUserDetails() method ends -----
+[2014-04-28 01:32:35,828] INFO  BaseDAO.getConnection method ends
+[2014-04-28 01:32:35,852] INFO  Database Connection is Obtained
+[2014-04-28 01:32:35,852] INFO  BaseDAO.getConnection method begins
+[2014-04-28 01:32:35,856] DEBUG ----- UserDAOImpl.getUserDetails() method ends -----
+[2014-04-28 01:32:35,856] INFO  Database Connection is Closed...
+[2014-04-28 01:32:35,857] DEBUG ----- UserDAOImpl.getUserDetails() method ends -----
+[2014-04-28 01:32:35,857] INFO  BaseDAO.getConnection method ends
+[2014-04-28 01:32:35,880] INFO  Database Connection is Obtained
+[2014-04-28 01:32:35,880] INFO  BaseDAO.getConnection method begins
+[2014-04-28 01:32:35,883] DEBUG ----- UserDAOImpl.getUserDetails() method ends -----
+[2014-04-28 01:32:35,883] INFO  Database Connection is Closed...
+[2014-04-28 01:32:35,883] DEBUG ----- DeliveryDAOImpl.constructResponseList() method ends -----
+[2014-04-28 01:32:35,883] DEBUG ----- DeliveryDAOImpl.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 01:32:35,883] INFO  Database Connection is Closed...
+[2014-04-28 01:32:35,884] DEBUG ----- AdminServiceHelper.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 01:32:36,462] DEBUG ----- AdminService.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 01:33:32,185] DEBUG ----- AdminService.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 01:33:32,186] DEBUG ----- AdminRequestValidation.validateHistoryRequest() method begins -----
+[2014-04-28 01:33:32,186] DEBUG ----- AdminRequestValidation.validateHistoryRequest() method ends -----
+[2014-04-28 01:33:32,186] DEBUG ----- AdminServiceHelper.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 01:33:32,187] ERROR Error occured in AdminServiceHelper.getDeliveryHistoryByPeriod() java.lang.NumberFormatException: null
+[2014-04-28 01:33:32,187] DEBUG ----- AdminServiceHelper.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 01:33:32,352] DEBUG ----- AdminService.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 01:33:45,944] DEBUG ----- AdminService.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 01:33:46,786] DEBUG ----- AdminRequestValidation.validateHistoryRequest() method begins -----
+[2014-04-28 01:33:46,786] DEBUG ----- AdminRequestValidation.validateHistoryRequest() method ends -----
+[2014-04-28 01:33:49,039] DEBUG ----- AdminServiceHelper.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 01:34:03,166] ERROR Error occured in AdminServiceHelper.getDeliveryHistoryByPeriod() java.lang.NumberFormatException: null
+[2014-04-28 01:34:03,167] DEBUG ----- AdminServiceHelper.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 01:34:04,071] DEBUG ----- AdminService.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 01:34:09,320] DEBUG ----- AdminService.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 01:34:10,467] DEBUG ----- AdminRequestValidation.validateHistoryRequest() method begins -----
+[2014-04-28 01:34:10,468] DEBUG ----- AdminRequestValidation.validateHistoryRequest() method ends -----
+[2014-04-28 01:34:13,756] DEBUG ----- AdminServiceHelper.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 01:40:16,740] ERROR Error occured in AdminServiceHelper.getDeliveryHistoryByPeriod() java.lang.NumberFormatException: null
+[2014-04-28 01:40:16,740] DEBUG ----- AdminServiceHelper.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 01:40:16,740] DEBUG ----- AdminService.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 01:41:19,339] DEBUG ----- AdminService.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 01:41:19,345] INFO  Property File courierportal.properties Loaded Successfully....
+[2014-04-28 01:41:19,345] DEBUG ----- AdminRequestValidation.validateHistoryRequest() method begins -----
+[2014-04-28 01:41:19,348] DEBUG ----- AdminRequestValidation.validateHistoryRequest() method ends -----
+[2014-04-28 01:41:19,353] DEBUG ----- AdminServiceHelper.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 01:41:19,391] DEBUG ----- DeliveryDAOImpl.getDeliveryHistoryByPeriod() method begins -----
+[2014-04-28 01:41:19,391] INFO  BaseDAO.getConnection method ends
+[2014-04-28 01:41:19,693] INFO  Database Connection is Obtained
+[2014-04-28 01:41:19,693] INFO  BaseDAO.getConnection method begins
+[2014-04-28 01:41:19,693] DEBUG Order history fetch begins
+[2014-04-28 01:41:19,718] DEBUG ----- DeliveryDAOImpl.constructResponseList() method begins -----
+[2014-04-28 01:41:19,764] DEBUG ----- UserDAOImpl.getUserDetails() method ends -----
+[2014-04-28 01:41:19,765] INFO  BaseDAO.getConnection method ends
+[2014-04-28 01:41:19,798] INFO  Database Connection is Obtained
+[2014-04-28 01:41:19,799] INFO  BaseDAO.getConnection method begins
+[2014-04-28 01:41:19,802] DEBUG ----- UserDAOImpl.getUserDetails() method ends -----
+[2014-04-28 01:41:19,805] INFO  Database Connection is Closed...
+[2014-04-28 01:41:19,806] DEBUG ----- UserDAOImpl.getUserDetails() method ends -----
+[2014-04-28 01:41:19,806] INFO  BaseDAO.getConnection method ends
+[2014-04-28 01:41:19,842] INFO  Database Connection is Obtained
+[2014-04-28 01:41:19,842] INFO  BaseDAO.getConnection method begins
+[2014-04-28 01:41:19,845] DEBUG ----- UserDAOImpl.getUserDetails() method ends -----
+[2014-04-28 01:41:19,846] INFO  Database Connection is Closed...
+[2014-04-28 01:41:19,846] DEBUG ----- DeliveryDAOImpl.constructResponseList() method ends -----
+[2014-04-28 01:41:19,846] DEBUG ----- DeliveryDAOImpl.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 01:41:19,846] INFO  Database Connection is Closed...
+[2014-04-28 01:41:19,846] DEBUG ----- AdminServiceHelper.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 01:41:20,539] DEBUG ----- AdminService.getDeliveryHistoryByPeriod() method ends -----
+[2014-04-28 01:41:51,765] DEBUG ----- AdminService.getDeliveryListByStatus() method begins -----
+[2014-04-28 01:41:51,767] DEBUG ----- AdminRequestValidation.validateHistoryByStatusRequest() method begins -----
+[2014-04-28 01:41:51,768] DEBUG ----- AdminRequestValidation.validateHistoryByStatusRequest() method ends -----
+[2014-04-28 01:41:51,768] DEBUG ----- DeliveryDAOImpl.getDeliveryHistoryByStatus() method begins -----
+[2014-04-28 01:41:51,768] INFO  BaseDAO.getConnection method ends
+[2014-04-28 01:41:51,810] INFO  Database Connection is Obtained
+[2014-04-28 01:41:51,810] INFO  BaseDAO.getConnection method begins
+[2014-04-28 01:41:51,810] DEBUG Order history fetch begins
+[2014-04-28 01:41:51,815] DEBUG ----- DeliveryDAOImpl.constructResponseList() method begins -----
+[2014-04-28 01:41:51,818] DEBUG ----- UserDAOImpl.getUserDetails() method ends -----
+[2014-04-28 01:41:51,818] INFO  BaseDAO.getConnection method ends
+[2014-04-28 01:41:51,854] INFO  Database Connection is Obtained
+[2014-04-28 01:41:51,854] INFO  BaseDAO.getConnection method begins
+[2014-04-28 01:41:51,857] DEBUG ----- UserDAOImpl.getUserDetails() method ends -----
+[2014-04-28 01:41:51,858] INFO  Database Connection is Closed...
+[2014-04-28 01:41:51,858] DEBUG ----- UserDAOImpl.getUserDetails() method ends -----
+[2014-04-28 01:41:51,859] INFO  BaseDAO.getConnection method ends
+[2014-04-28 01:41:51,892] INFO  Database Connection is Obtained
+[2014-04-28 01:41:51,892] INFO  BaseDAO.getConnection method begins
+[2014-04-28 01:41:51,896] DEBUG ----- UserDAOImpl.getUserDetails() method ends -----
+[2014-04-28 01:41:51,897] INFO  Database Connection is Closed...
+[2014-04-28 01:41:51,897] DEBUG ----- DeliveryDAOImpl.constructResponseList() method ends -----
+[2014-04-28 01:41:51,897] DEBUG ----- DeliveryDAOImpl.getDeliveryHistoryByStatus() method ends -----
+[2014-04-28 01:41:51,897] INFO  Database Connection is Closed...
+[2014-04-28 01:41:51,897] DEBUG ----- AdminService.getDeliveryListByStatus() method ends -----
+[2014-04-28 01:42:24,123] DEBUG ----- AdminService.getDeliveryListByStatus() method begins -----
+[2014-04-28 01:42:24,124] DEBUG ----- AdminRequestValidation.validateHistoryByStatusRequest() method begins -----
+[2014-04-28 01:42:24,125] DEBUG ----- AdminRequestValidation.validateHistoryByStatusRequest() method ends -----
+[2014-04-28 01:42:24,125] DEBUG ----- DeliveryDAOImpl.getDeliveryHistoryByStatus() method begins -----
+[2014-04-28 01:42:24,126] INFO  BaseDAO.getConnection method ends
+[2014-04-28 01:42:24,152] INFO  Database Connection is Obtained
+[2014-04-28 01:42:24,152] INFO  BaseDAO.getConnection method begins
+[2014-04-28 01:42:24,152] DEBUG Order history fetch begins
+[2014-04-28 01:42:24,155] DEBUG ----- DeliveryDAOImpl.constructResponseList() method begins -----
+[2014-04-28 01:42:24,155] DEBUG No relevant record found in database
+[2014-04-28 01:42:24,155] DEBUG ----- DeliveryDAOImpl.getDeliveryHistoryByStatus() method ends -----
+[2014-04-28 01:42:24,156] INFO  Database Connection is Closed...
+[2014-04-28 01:42:24,156] DEBUG ----- AdminService.getDeliveryListByStatus() method ends -----
+[2014-04-28 01:43:04,236] DEBUG ----- AdminService.getDeliveryListByStatus() method begins -----
+[2014-04-28 01:43:04,236] DEBUG ----- AdminRequestValidation.validateHistoryByStatusRequest() method begins -----
+[2014-04-28 01:43:04,236] DEBUG ----- AdminRequestValidation.validateHistoryByStatusRequest() method ends -----
+[2014-04-28 01:43:04,236] DEBUG ----- DeliveryDAOImpl.getDeliveryHistoryByStatus() method begins -----
+[2014-04-28 01:43:04,237] INFO  BaseDAO.getConnection method ends
+[2014-04-28 01:43:04,269] INFO  Database Connection is Obtained
+[2014-04-28 01:43:04,270] INFO  BaseDAO.getConnection method begins
+[2014-04-28 01:43:04,270] DEBUG Order history fetch begins
+[2014-04-28 01:43:04,276] DEBUG ----- DeliveryDAOImpl.constructResponseList() method begins -----
+[2014-04-28 01:43:04,279] DEBUG ----- UserDAOImpl.getUserDetails() method ends -----
+[2014-04-28 01:43:04,279] INFO  BaseDAO.getConnection method ends
+[2014-04-28 01:43:04,311] INFO  Database Connection is Obtained
+[2014-04-28 01:43:04,311] INFO  BaseDAO.getConnection method begins
+[2014-04-28 01:43:04,314] DEBUG ----- UserDAOImpl.getUserDetails() method ends -----
+[2014-04-28 01:43:04,314] INFO  Database Connection is Closed...
+[2014-04-28 01:43:04,314] DEBUG ----- DeliveryDAOImpl.constructResponseList() method ends -----
+[2014-04-28 01:43:04,315] DEBUG ----- DeliveryDAOImpl.getDeliveryHistoryByStatus() method ends -----
+[2014-04-28 01:43:04,315] INFO  Database Connection is Closed...
+[2014-04-28 01:43:04,315] DEBUG ----- AdminService.getDeliveryListByStatus() method ends -----
+[2014-04-28 01:43:33,616] DEBUG ----- AdminService.getDeliveryListByStatus() method begins -----
+[2014-04-28 01:43:33,616] DEBUG ----- AdminRequestValidation.validateHistoryByStatusRequest() method begins -----
+[2014-04-28 01:43:33,616] DEBUG ----- AdminRequestValidation.validateHistoryByStatusRequest() method ends -----
+[2014-04-28 01:43:33,616] DEBUG ----- DeliveryDAOImpl.getDeliveryHistoryByStatus() method begins -----
+[2014-04-28 01:43:33,616] INFO  BaseDAO.getConnection method ends
+[2014-04-28 01:43:33,639] INFO  Database Connection is Obtained
+[2014-04-28 01:43:33,639] INFO  BaseDAO.getConnection method begins
+[2014-04-28 01:43:33,639] DEBUG Order history fetch begins
+[2014-04-28 01:43:33,643] DEBUG ----- DeliveryDAOImpl.constructResponseList() method begins -----
+[2014-04-28 01:43:33,645] DEBUG ----- UserDAOImpl.getUserDetails() method ends -----
+[2014-04-28 01:43:33,645] INFO  BaseDAO.getConnection method ends
+[2014-04-28 01:43:33,667] INFO  Database Connection is Obtained
+[2014-04-28 01:43:33,667] INFO  BaseDAO.getConnection method begins
+[2014-04-28 01:43:33,670] DEBUG ----- UserDAOImpl.getUserDetails() method ends -----
+[2014-04-28 01:43:33,670] INFO  Database Connection is Closed...
+[2014-04-28 01:43:33,671] DEBUG ----- DeliveryDAOImpl.constructResponseList() method ends -----
+[2014-04-28 01:43:33,671] DEBUG ----- DeliveryDAOImpl.getDeliveryHistoryByStatus() method ends -----
+[2014-04-28 01:43:33,671] INFO  Database Connection is Closed...
+[2014-04-28 01:43:33,671] DEBUG ----- AdminService.getDeliveryListByStatus() method ends -----
+[2014-04-28 01:52:41,243] DEBUG ----- DeliveryService.getDeliveryList() method begins -----
+[2014-04-28 01:52:41,247] INFO  Property File courierportal.properties Loaded Successfully....
+[2014-04-28 01:52:41,248] DEBUG ----- DeliveryRequestValidation.validateDeliveryHistoryRequest() method begins -----
+[2014-04-28 01:52:41,249] DEBUG Invalid request parameters
+[2014-04-28 01:52:41,250] DEBUG ----- DeliveryRequestValidation.validateDeliveryHistoryRequest() method ends -----
+[2014-04-28 01:52:41,252] DEBUG ----- DeliveryService.getDeliveryList() method ends -----
+[2014-04-28 01:57:39,574] DEBUG ----- DeliveryService.getDeliveryList() method begins -----
+[2014-04-28 01:57:39,578] INFO  Property File courierportal.properties Loaded Successfully....
+[2014-04-28 01:57:39,579] DEBUG ----- DeliveryRequestValidation.validateDeliveryHistoryRequest() method begins -----
+[2014-04-28 01:57:39,581] DEBUG Invalid request parameters
+[2014-04-28 01:57:39,581] DEBUG ----- DeliveryRequestValidation.validateDeliveryHistoryRequest() method ends -----
+[2014-04-28 01:57:39,583] DEBUG ----- DeliveryService.getDeliveryList() method ends -----
+[2014-04-28 02:02:34,351] DEBUG ----- DeliveryService.getDeliveryList() method begins -----
+[2014-04-28 02:02:34,355] INFO  Property File courierportal.properties Loaded Successfully....
+[2014-04-28 02:02:34,356] DEBUG ----- DeliveryRequestValidation.validateDeliveryHistoryRequest() method begins -----
+[2014-04-28 02:02:34,359] DEBUG Invalid request parameters
+[2014-04-28 02:02:34,359] DEBUG ----- DeliveryRequestValidation.validateDeliveryHistoryRequest() method ends -----
+[2014-04-28 02:02:34,362] DEBUG ----- DeliveryService.getDeliveryList() method ends -----
+[2014-04-28 02:05:40,569] DEBUG ----- DeliveryService.getDeliveryList() method begins -----
+[2014-04-28 02:05:40,574] INFO  Property File courierportal.properties Loaded Successfully....
+[2014-04-28 02:05:40,576] DEBUG ----- DeliveryRequestValidation.validateDeliveryHistoryRequest() method begins -----
+[2014-04-28 02:05:40,579] DEBUG Invalid request parameters
+[2014-04-28 02:05:40,579] DEBUG ----- DeliveryRequestValidation.validateDeliveryHistoryRequest() method ends -----
+[2014-04-28 02:05:40,582] DEBUG ----- DeliveryService.getDeliveryList() method ends -----
